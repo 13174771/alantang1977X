@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml","http://epg.51zmt.top:8000/e.xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
-#EXTINF:-1 group-title="更新日期",2025-06-21
+#EXTINF:-1 group-title="更新日期",2025-06-23
 https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
 http://113.104.185.181:7088/udp/239.253.43.71:5146$IPV4•线路1
@@ -106,33 +106,33 @@ http://119.32.12.32:2901/udp/224.1.100.36:11111$IPV4•线路51
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-21.ctv$IPV4•线路52
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://183.30.201.35:10002/rtp/239.253.43.71:5146$IPV4•线路53
+http://php.jdshipin.com:8880/gztv.php$IPV4•线路53
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://58.62.234.69:10000/rtp/239.253.43.71:5146$IPV4•线路54
+http://nn.7x9d.cn/地方台8563/gsw.php$IPV4•线路54
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://dns.yiandrive.com:15907/gztv/zhonghe$IPV4•线路55
+http://183.30.201.35:10002/rtp/239.253.43.71:5146$IPV4•线路55
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://php.jdshipin.com:8880/gztv.php$IPV4•线路56
+http://58.62.234.69:10000/rtp/239.253.43.71:5146$IPV4•线路56
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://120.77.205.62:8087/rtp/239.253.43.66:5146$IPV4•线路57
+http://dns.yiandrive.com:15907/gztv/zhonghe$IPV4•线路57
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php$IPV4•线路58
+http://120.77.205.62:8087/rtp/239.253.43.66:5146$IPV4•线路58
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$IPV4•线路59
+http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php$IPV4•线路59
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$IPV4•线路60
+http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$IPV4•线路60
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://r.jdshipin.com/snhya$IPV4•线路61
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$IPV4•线路61
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路62
+http://r.jdshipin.com/snhya$IPV4•线路62
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://php.jdshipin.com:8880/xsj.php$IPV4•线路63
+http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路63
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://r.jdshipin.com/snhya$IPV4•线路64
+http://php.jdshipin.com:8880/xsj.php$IPV4•线路64
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路65
+http://r.jdshipin.com/snhya$IPV4•线路65
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
-http://nn.7x9d.cn/地方台8563/gsw.php$IPV4•线路66
+http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路66
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
 https://stream1.freetv.fun/yan-zhou-zong-he-20.ctv$IPV4•线路67
 #EXTINF:-1 group-title="🍎┃广东频道",广州综合
@@ -452,59 +452,59 @@ http://mh0.asia:35455/itv/1000000004000011655.m3u8$IPV4•线路109
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
 http://mzitv.cn:32/tsfile/live/1006_1.m3u8$IPV4•线路110
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8$IPV4•线路111
+http://php.jdshipin.com/TVOD/hnyd.php$IPV4•线路111
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://gslbserv.itv.cmvideo.cn:80/1.m3u8$IPV4•线路112
+http://ku9.3n.cc/smt.php$IPV4•线路112
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-https://tv.cdn.com.mp/live/gdzj/stream.m3u8$IPV4•线路113
+http://218.13.14.6:60050/tsfile/live/1018_1.m3u8$IPV4•线路113
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8$IPV4•线路114
+http://cdn2.163189.xyz/live/gdzj/stream.m3u8$IPV4•线路114
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$IPV4•线路115
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8$IPV4•线路115
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://gmxw.7766.org:808/hls/83/index.m3u8$IPV4•线路116
+https://tv.cdn.com.mp/live/gdzj/stream.m3u8$IPV4•线路116
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://php.jdshipin.com:8880/TVOD/iptv.php$IPV4•线路117
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8$IPV4•线路117
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://php.jdshipin.com:8880/chudian.php$IPV4•线路118
+http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$IPV4•线路118
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8$IPV4•线路119
+http://gmxw.7766.org:808/hls/83/index.m3u8$IPV4•线路119
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://mzitv.cn:32/tsfile/live/1006_1.m3u8$IPV4•线路120
+http://php.jdshipin.com:8880/TVOD/iptv.php$IPV4•线路120
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://120.77.205.62:8087/rtp/239.77.0.1:5146$IPV4•线路121
+http://php.jdshipin.com:8880/chudian.php$IPV4•线路121
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://183.11.239.36:808/hls/83/index.m3u8$IPV4•线路122
+http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8$IPV4•线路122
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://119.125.134.176:9901/tsfile/live/1003_1.m3u8$IPV4•线路123
+http://mzitv.cn:32/tsfile/live/1006_1.m3u8$IPV4•线路123
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://14.212.185.71:9901/tsfile/live/1000_1.m3u8$IPV4•线路124
+http://120.77.205.62:8087/rtp/239.77.0.1:5146$IPV4•线路124
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://222.218.158.25:8181/tsfile/live/1000_1.m3u8$IPV4•线路125
+http://183.11.239.36:808/hls/83/index.m3u8$IPV4•线路125
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://58.254.14.231:808/hls/55/index.m3u8$IPV4•线路126
+http://119.125.134.176:9901/tsfile/live/1003_1.m3u8$IPV4•线路126
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://14.112.86.85:4022/udp/239.77.0.1:5146$IPV4•线路127
+http://14.212.185.71:9901/tsfile/live/1000_1.m3u8$IPV4•线路127
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://125.90.252.38:4022/udp/239.77.0.1:5146$IPV4•线路128
+http://222.218.158.25:8181/tsfile/live/1000_1.m3u8$IPV4•线路128
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8$IPV4•线路129
+http://58.254.14.231:808/hls/55/index.m3u8$IPV4•线路129
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8$IPV4•线路130
+http://14.112.86.85:4022/udp/239.77.0.1:5146$IPV4•线路130
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://gslbserv.itv.cmvideo.cn/1.m3u8$IPV4•线路131
+http://125.90.252.38:4022/udp/239.77.0.1:5146$IPV4•线路131
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://lzjzyh.xyz:8888/udp/239.20.0.64:3144$IPV4•线路132
+http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8$IPV4•线路132
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://mryx.fun:1025/udp/239.10.0.62:1025$IPV4•线路133
+http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8$IPV4•线路133
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://php.jdshipin.com:8880/itv6.php$IPV4•线路134
+http://gslbserv.itv.cmvideo.cn/1.m3u8$IPV4•线路134
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://php.jdshipin.com/TVOD/hnyd.php$IPV4•线路135
+http://lzjzyh.xyz:8888/udp/239.20.0.64:3144$IPV4•线路135
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://ku9.3n.cc/smt.php$IPV4•线路136
+http://mryx.fun:1025/udp/239.10.0.62:1025$IPV4•线路136
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
-http://218.13.14.6:60050/tsfile/live/1018_1.m3u8$IPV4•线路137
+http://php.jdshipin.com:8880/itv6.php$IPV4•线路137
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
 http://8.138.7.223/tv/gd.php$IPV4•线路138
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
@@ -516,9 +516,11 @@ https://stream1.freetv.fun/yan-dong-zhu-jiang-32.ctv$IPV4•线路141
 #EXTINF:-1 group-title="🍎┃广东频道",广东珠江
 https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-18.m3u8$IPV4•线路142
 #EXTINF:-1 group-title="🍎┃广东频道",广州影视频道
-http://tencentplay.gztv.com/live/yingshi.m3u8$IPV4•线路1
+http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍎┃广东频道",广州影视频道
-http://116.23.98.153:7188/udp/239.253.43.73:5146$IPV4•线路2
+http://tencentplay.gztv.com/live/yingshi.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍎┃广东频道",广州影视频道
+http://116.23.98.153:7188/udp/239.253.43.73:5146$IPV4•线路3
 #EXTINF:-1 group-title="🍎┃广东频道",广州电视台影视频道
 https://tencentplay.gztv.com/live/yingshi.m3u8$IPV4
 #EXTINF:-1 group-title="🍎┃广东频道",广州电视台法治频道
@@ -540,13 +542,15 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/1.m3u8$IPV4•�
 #EXTINF:-1 group-title="🍎┃广东频道",4K南国都市频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/1.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🍎┃广东频道",广州竞赛频道
-https://tencentplay.gztv.com/live/jingsai.m3u8$IPV4•线路1
+http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍎┃广东频道",广州竞赛频道
-http://8.138.7.223/tv/gzjs.m3u8$IPV4•线路2
+https://tencentplay.gztv.com/live/jingsai.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍎┃广东频道",广州竞赛频道
-http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$IPV4•线路3
+http://8.138.7.223/tv/gzjs.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🍎┃广东频道",广州竞赛频道
-http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8$IPV4•线路4
+http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$IPV4•线路4
+#EXTINF:-1 group-title="🍎┃广东频道",广州竞赛频道
+http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8$IPV4•线路5
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
 http://113.101.119.50:8090/hls/108/index.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
@@ -574,225 +578,225 @@ http://mzitv.cn:32/tsfile/live/1008_1.m3u8$IPV4•线路12
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
 http://120.77.205.62:8087/rtp/239.77.0.112:5146$IPV4•线路13
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.101.119.27:808/hls/108/index.m3u8$IPV4•线路14
+https://tv.cdn.com.mp/live/gdty/stream.m3u8$IPV4•线路14
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.101.119.27:8090/hls/108/index.m3u8$IPV4•线路15
+http://218.13.14.6:60050/tsfile/live/1021_1.m3u8$IPV4•线路15
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.101.119.50:808/hls/108/index.m3u8$IPV4•线路16
+http://120.198.101.106:9901/tsfile/live/1012_1.m3u8$IPV4•线路16
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.64.146.32:2024/hls/39/index.m3u8$IPV4•线路17
+http://183.237.95.108:9901/tsfile/live/1033_1.m3u8$IPV4•线路17
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.64.146.6:2024/hls/39/index.m3u8$IPV4•线路18
+http://121.33.239.242:9901/tsfile/live/1001_1.m3u8$IPV4•线路18
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.64.146.94:2024/hls/39/index.m3u8$IPV4•线路19
+http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$IPV4•线路19
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.65.162.209:8081/hls/41/index.m3u8$IPV4•线路20
+http://113.101.119.27:808/hls/108/index.m3u8$IPV4•线路20
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://113.109.250.108:9999/udp/239.77.0.112:5146$IPV4•线路21
+http://113.101.119.27:8090/hls/108/index.m3u8$IPV4•线路21
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111$IPV4•线路22
+http://113.101.119.50:808/hls/108/index.m3u8$IPV4•线路22
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111$IPV4•线路23
+http://113.64.146.32:2024/hls/39/index.m3u8$IPV4•线路23
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://125.89.163.44:8888/udp/239.77.0.112:5146$IPV4•线路24
+http://113.64.146.6:2024/hls/39/index.m3u8$IPV4•线路24
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://183.237.95.108:9901/tsfile/live/1033_1.m3u8$IPV4•线路25
+http://113.64.146.94:2024/hls/39/index.m3u8$IPV4•线路25
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$IPV4•线路26
+http://113.65.162.209:8081/hls/41/index.m3u8$IPV4•线路26
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$IPV4•线路27
+http://113.109.250.108:9999/udp/239.77.0.112:5146$IPV4•线路27
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$IPV4•线路28
+http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111$IPV4•线路28
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$IPV4•线路29
+http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111$IPV4•线路29
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.198.101.106:9901/tsfile/live/1012_1.m3u8$IPV4•线路30
+http://125.89.163.44:8888/udp/239.77.0.112:5146$IPV4•线路30
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://14.212.185.146:9901/tsfile/live/1003_1.m3u8$IPV4•线路31
+http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$IPV4•线路31
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://ali.hlspull.yximgs.com/live/guangdongtiyuguangdongtiyuszds98hsrt6u57eujseth5i7463atgestjhsrjsrj------------------------------------------------------.flv$IPV4•线路32
+http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$IPV4•线路32
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$IPV4•线路33
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$IPV4•线路33
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://ali.hlspull.yximgs.com/live/diyp_gdty.flv$IPV4•线路34
+http://14.212.185.146:9901/tsfile/live/1003_1.m3u8$IPV4•线路34
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv$IPV4•线路35
+https://ali.hlspull.yximgs.com/live/guangdongtiyuguangdongtiyuszds98hsrt6u57eujseth5i7463atgestjhsrjsrj------------------------------------------------------.flv$IPV4•线路35
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://111.221.137.154:9901/tsfile/live/1005_1.m3u8$IPV4•线路36
+http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$IPV4•线路36
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://218.17.196.234:9901/tsfile/live/1001_1.m3u8$IPV4•线路37
+https://ali.hlspull.yximgs.com/live/diyp_gdty.flv$IPV4•线路37
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://r.jdshipin.com/LiYdg$IPV4•线路38
+https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv$IPV4•线路38
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv$IPV4•线路39
+http://111.221.137.154:9901/tsfile/live/1005_1.m3u8$IPV4•线路39
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv$IPV4•线路40
+http://218.17.196.234:9901/tsfile/live/1001_1.m3u8$IPV4•线路40
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv$IPV4•线路41
+http://r.jdshipin.com/LiYdg$IPV4•线路41
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv$IPV4•线路42
+https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv$IPV4•线路42
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8$IPV4•线路43
+https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv$IPV4•线路43
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv$IPV4•线路44
+https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv$IPV4•线路44
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv$IPV4•线路45
+https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv$IPV4•线路45
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8$IPV4•线路46
+https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8$IPV4•线路46
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv$IPV4•线路47
+https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv$IPV4•线路47
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8$IPV4•线路48
+https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv$IPV4•线路48
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8$IPV4•线路49
+https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8$IPV4•线路49
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv$IPV4•线路50
+https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv$IPV4•线路50
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-34.ctv$IPV4•线路51
+https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8$IPV4•线路51
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8$IPV4•线路52
+https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8$IPV4•线路52
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv$IPV4•线路53
+https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv$IPV4•线路53
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv$IPV4•线路54
+https://stream1.freetv.fun/yan-dong-ti-yu-34.ctv$IPV4•线路54
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-7.ctv$IPV4•线路55
+https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8$IPV4•线路55
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv$IPV4•线路56
+https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv$IPV4•线路56
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8$IPV4•线路57
+https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv$IPV4•线路57
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-26.m3u8$IPV4•线路58
+https://stream1.freetv.fun/yan-dong-ti-yu-7.ctv$IPV4•线路58
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8$IPV4•线路59
+https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv$IPV4•线路59
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv$IPV4•线路60
+https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8$IPV4•线路60
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-21.m3u8$IPV4•线路61
+https://stream1.freetv.fun/yan-dong-ti-yu-26.m3u8$IPV4•线路61
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv$IPV4•线路62
+https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8$IPV4•线路62
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-16.ctv$IPV4•线路63
+https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv$IPV4•线路63
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv$IPV4•线路64
+https://stream1.freetv.fun/yan-dong-ti-yu-21.m3u8$IPV4•线路64
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8$IPV4•线路65
+https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv$IPV4•线路65
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8$IPV4•线路66
+https://stream1.freetv.fun/yan-dong-ti-yu-16.ctv$IPV4•线路66
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv$IPV4•线路67
+https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv$IPV4•线路67
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8$IPV4•线路68
+https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8$IPV4•线路68
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv$IPV4•线路69
+https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8$IPV4•线路69
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv$IPV4•线路70
+https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv$IPV4•线路70
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8$IPV4•线路71
+https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8$IPV4•线路71
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-36.ctv$IPV4•线路72
+https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv$IPV4•线路72
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv$IPV4•线路73
+https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv$IPV4•线路73
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://171.108.239.98:8181/tsfile/live/1004_1.m3u8$IPV4•线路74
+https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8$IPV4•线路74
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://171.108.239.99:8181/tsfile/live/1004_1.m3u8$IPV4•线路75
+https://stream1.freetv.fun/yan-dong-ti-yu-36.ctv$IPV4•线路75
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8$IPV4•线路76
+https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv$IPV4•线路76
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://171.108.239.79:8181/tsfile/live/1004_1.m3u8$IPV4•线路77
+http://171.108.239.98:8181/tsfile/live/1004_1.m3u8$IPV4•线路77
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://171.108.239.80:8181/tsfile/live/1004_1.m3u8$IPV4•线路78
+http://171.108.239.99:8181/tsfile/live/1004_1.m3u8$IPV4•线路78
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://116.21.121.116:4433/tsfile/live/0142_1.m3u8$IPV4•线路79
+http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8$IPV4•线路79
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.238.84.44:9901/tsfile/live/1012_1.m3u8$IPV4•线路80
+http://171.108.239.79:8181/tsfile/live/1004_1.m3u8$IPV4•线路80
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://125.91.252.222:9901/tsfile/live/1002_1.m3u8$IPV4•线路81
+http://171.108.239.80:8181/tsfile/live/1004_1.m3u8$IPV4•线路81
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8$IPV4•线路82
+http://116.21.121.116:4433/tsfile/live/0142_1.m3u8$IPV4•线路82
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8$IPV4•线路83
+http://120.238.84.44:9901/tsfile/live/1012_1.m3u8$IPV4•线路83
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8$IPV4•线路84
+http://125.91.252.222:9901/tsfile/live/1002_1.m3u8$IPV4•线路84
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8$IPV4•线路85
+https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8$IPV4•线路85
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://tv.cdn.com.mp/live/gdty/stream.m3u8$IPV4•线路86
+https://stream1.freetv.fun/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8$IPV4•线路86
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8$IPV4•线路87
+https://stream1.freetv.fun/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8$IPV4•线路87
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8$IPV4•线路88
+https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8$IPV4•线路88
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8$IPV4•线路89
+https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8$IPV4•线路89
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8$IPV4•线路90
+https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8$IPV4•线路90
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8$IPV4•线路91
+https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8$IPV4•线路91
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-27.ctv$IPV4•线路92
+https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8$IPV4•线路92
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv$IPV4•线路93
+https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8$IPV4•线路93
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-33.m3u8$IPV4•线路94
+https://stream1.freetv.fun/yan-dong-ti-yu-27.ctv$IPV4•线路94
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路95
+https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv$IPV4•线路95
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.77.205.62:8087/rtp/239.77.1.97:5146$IPV4•线路96
+https://stream1.freetv.fun/yan-dong-ti-yu-33.m3u8$IPV4•线路96
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://119.32.12.32:2901/udp/224.1.100.34:11111$IPV4•线路97
+http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路97
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://218.15.214.115:10000/udp/239.77.0.112:5146$IPV4•线路98
+http://120.77.205.62:8087/rtp/239.77.1.97:5146$IPV4•线路98
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://api2.52tb.xyz/info$IPV4•线路99
+http://119.32.12.32:2901/udp/224.1.100.34:11111$IPV4•线路99
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://api3.52tb.xyz/info$IPV4•线路100
+http://218.15.214.115:10000/udp/239.77.0.112:5146$IPV4•线路100
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-12.m3u8$IPV4•线路101
+http://api2.52tb.xyz/info$IPV4•线路101
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv$IPV4•线路102
+http://api3.52tb.xyz/info$IPV4•线路102
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-39.m3u8$IPV4•线路103
+https://stream1.freetv.fun/yan-dong-ti-yu-12.m3u8$IPV4•线路103
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-27.m3u8$IPV4•线路104
+https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv$IPV4•线路104
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://stream1.freetv.fun/yan-dong-ti-yu-26.ctv$IPV4•线路105
+https://stream1.freetv.fun/yan-dong-ti-yu-39.m3u8$IPV4•线路105
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$IPV4•线路106
+https://stream1.freetv.fun/yan-dong-ti-yu-27.m3u8$IPV4•线路106
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://cdn2.163189.xyz/live/gdty/stream.m3u8$IPV4•线路107
+https://stream1.freetv.fun/yan-dong-ti-yu-26.ctv$IPV4•线路107
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://cdn2.132.us.kg/live/gdty/stream.m3u8$IPV4•线路108
+http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$IPV4•线路108
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$IPV4•线路109
+http://cdn2.163189.xyz/live/gdty/stream.m3u8$IPV4•线路109
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路110
+http://cdn2.132.us.kg/live/gdty/stream.m3u8$IPV4•线路110
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://mzitv.cn:32/tsfile/live/1008_1.m3u8$IPV4•线路111
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$IPV4•线路111
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路112
+http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路112
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://14.212.185.71:9901/tsfile/live/1003_1.m3u8$IPV4•线路113
+http://mzitv.cn:32/tsfile/live/1008_1.m3u8$IPV4•线路113
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://222.218.158.25:8181/tsfile/live/1001_1.m3u8$IPV4•线路114
+http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路114
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://119.125.134.176:9901/tsfile/live/1007_1.m3u8$IPV4•线路115
+http://14.212.185.71:9901/tsfile/live/1003_1.m3u8$IPV4•线路115
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://14.112.86.85:4022/udp/239.77.0.112:5146$IPV4•线路116
+http://222.218.158.25:8181/tsfile/live/1001_1.m3u8$IPV4•线路116
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://14.112.86.85:4022/udp/239.77.0.168:5146$IPV4•线路117
+http://119.125.134.176:9901/tsfile/live/1007_1.m3u8$IPV4•线路117
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://125.90.252.38:4022/udp/239.77.0.112:5146$IPV4•线路118
+http://14.112.86.85:4022/udp/239.77.0.112:5146$IPV4•线路118
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://lzjzyh.xyz:8888/udp/239.20.0.103:2004$IPV4•线路119
+http://14.112.86.85:4022/udp/239.77.0.168:5146$IPV4•线路119
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://mryx.fun:1025/udp/239.10.0.113:1025$IPV4•线路120
+http://125.90.252.38:4022/udp/239.77.0.112:5146$IPV4•线路120
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://iptviptv.site:9694/hls/456/index.m3u8$IPV4•线路121
+http://lzjzyh.xyz:8888/udp/239.20.0.103:2004$IPV4•线路121
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://218.13.14.6:60050/tsfile/live/1021_1.m3u8$IPV4•线路122
+http://mryx.fun:1025/udp/239.10.0.113:1025$IPV4•线路122
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
-http://121.33.239.242:9901/tsfile/live/1001_1.m3u8$IPV4•线路123
+http://iptviptv.site:9694/hls/456/index.m3u8$IPV4•线路123
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
 http://116.23.98.153:7188/udp/239.77.0.168:5146$IPV4•线路124
 #EXTINF:-1 group-title="🍎┃广东频道",广东体育
@@ -922,31 +926,31 @@ https://stream1.freetv.fun/yan-dong-min-sheng-38.ctv$IPV4•线路60
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
 http://mzitv.cn:32/tsfile/live/1009_1.m3u8$IPV4•线路61
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路62
+http://121.33.239.242:9901/tsfile/live/1003_1.m3u8$IPV4•线路62
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路63
+http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路63
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://mzitv.cn:32/tsfile/live/1009_1.m3u8$IPV4•线路64
+http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路64
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://120.77.205.62:8087/rtp/239.77.0.225:5146$IPV4•线路65
+http://mzitv.cn:32/tsfile/live/1009_1.m3u8$IPV4•线路65
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://14.212.185.71:9901/tsfile/live/1002_1.m3u8$IPV4•线路66
+http://120.77.205.62:8087/rtp/239.77.0.225:5146$IPV4•线路66
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://222.218.158.25:8181/tsfile/live/1002_1.m3u8$IPV4•线路67
+http://14.212.185.71:9901/tsfile/live/1002_1.m3u8$IPV4•线路67
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://58.254.14.231:808/hls/58/index.m3u8$IPV4•线路68
+http://222.218.158.25:8181/tsfile/live/1002_1.m3u8$IPV4•线路68
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://14.112.86.85:4022/udp/239.77.0.225:5146$IPV4•线路69
+http://58.254.14.231:808/hls/58/index.m3u8$IPV4•线路69
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://125.90.252.38:4022/udp/239.77.0.225:5146$IPV4•线路70
+http://14.112.86.85:4022/udp/239.77.0.225:5146$IPV4•线路70
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://lzjzyh.xyz:8888/udp/239.21.0.86:3684$IPV4•线路71
+http://125.90.252.38:4022/udp/239.77.0.225:5146$IPV4•线路71
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://mryx.fun:1025/udp/239.11.0.80:1025$IPV4•线路72
+http://lzjzyh.xyz:8888/udp/239.21.0.86:3684$IPV4•线路72
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://iptviptv.site:9694/hls/455/index.m3u8$IPV4•线路73
+http://mryx.fun:1025/udp/239.11.0.80:1025$IPV4•线路73
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
-http://121.33.239.242:9901/tsfile/live/1003_1.m3u8$IPV4•线路74
+http://iptviptv.site:9694/hls/455/index.m3u8$IPV4•线路74
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
 https://stream1.freetv.fun/yan-dong-min-sheng-15.ctv$IPV4•线路75
 #EXTINF:-1 group-title="🍎┃广东频道",广东民生
@@ -1033,6 +1037,8 @@ http://mryx.fun:1025/udp/239.10.0.112:1025$IPV4•线路10
 http://iptviptv.site:9694/hls/457/index.m3u8$IPV4•线路11
 #EXTINF:-1 group-title="🍎┃广东频道",岭南戏曲
 http://113.101.119.50:8090/hls/22/index.m3u8$IPV4
+#EXTINF:-1 group-title="🍎┃广东频道",现代教育
+http://1b6467f415.iok.la:9931/tsfile/live/1112_1.m3u8$IPV4
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
 http://home.wwang.pw:35455/itv/2000000003000000045.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
@@ -1084,117 +1090,117 @@ http://mzitv.cn:32/tsfile/live/1012_1.m3u8$IPV4•线路24
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
 http://120.77.205.62:8087/rtp/239.77.0.215:5146$IPV4•线路25
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://183.30.201.35:10002/rtp/239.77.0.215:5146$IPV4•线路26
+https://www.freetv.top/migu/608917627.m3u8$IPV4•线路26
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://58.62.234.69:10000/rtp/239.77.0.215:5146$IPV4•线路27
+http://183.237.95.108:9901/tsfile/live/1037_1.m3u8$IPV4•线路27
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://183.11.239.36:808/hls/132/index.m3u8$IPV4•线路28
+http://b.zgjok.com:35455/itv/1000000002000011619.m3u8$IPV4•线路28
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://www.xzbn.site:35455/itv/1000000002000011619.m3u8$IPV4•线路29
+http://3501776.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路29
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://183.237.95.108:9901/tsfile/live/1037_1.m3u8$IPV4•线路30
+http://183.30.201.35:10002/rtp/239.77.0.215:5146$IPV4•线路30
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$IPV4•线路31
+http://58.62.234.69:10000/rtp/239.77.0.215:5146$IPV4•线路31
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://222.128.55.152:9080/live/dwq.m3u8$IPV4•线路32
+http://183.11.239.36:808/hls/132/index.m3u8$IPV4•线路32
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://tvbox6.icu/tv/dwqws.m3u8$IPV4•线路33
+http://www.xzbn.site:35455/itv/1000000002000011619.m3u8$IPV4•线路33
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://gmxw.7766.org:808/hls/132/index.m3u8$IPV4•线路34
+http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$IPV4•线路34
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路35
+http://222.128.55.152:9080/live/dwq.m3u8$IPV4•线路35
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://dsm.huarunguoji.top:35455/itv/1000000002000011619.m3u8$IPV4•线路36
+http://tvbox6.icu/tv/dwqws.m3u8$IPV4•线路36
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-https://www.freetv.top/migu/608917627.m3u8$IPV4•线路37
+http://gmxw.7766.org:808/hls/132/index.m3u8$IPV4•线路37
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://nn.7x9d.cn/组播/咪咕视频.php$IPV4•线路38
+http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路38
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://mzitv.cn:32/tsfile/live/1012_1.m3u8$IPV4•线路39
+http://dsm.huarunguoji.top:35455/itv/1000000002000011619.m3u8$IPV4•线路39
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://120.77.205.62:8087/rtp/239.77.0.215:5146$IPV4•线路40
+http://nn.7x9d.cn/组播/咪咕视频.php$IPV4•线路40
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://119.125.134.176:9901/tsfile/live/1026_1.m3u8$IPV4•线路41
+http://mzitv.cn:32/tsfile/live/1012_1.m3u8$IPV4•线路41
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://222.218.158.25:8181/tsfile/live/1027_1.m3u8$IPV4•线路42
+http://120.77.205.62:8087/rtp/239.77.0.215:5146$IPV4•线路42
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://58.254.14.231:808/hls/51/index.m3u8$IPV4•线路43
+http://119.125.134.176:9901/tsfile/live/1026_1.m3u8$IPV4•线路43
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://goo.bkpcp.top/mg/dwqws$IPV4•线路44
+http://222.218.158.25:8181/tsfile/live/1027_1.m3u8$IPV4•线路44
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227278/1.m3u8$IPV4•线路45
+http://58.254.14.231:808/hls/51/index.m3u8$IPV4•线路45
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.65.209/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路46
+http://goo.bkpcp.top/mg/dwqws$IPV4•线路46
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8$IPV4•线路47
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227278/1.m3u8$IPV4•线路47
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.67.110/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路48
+http://39.134.65.209/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路48
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.64.179:6610/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路49
+http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8$IPV4•线路49
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.65.251/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路50
+http://39.134.67.110/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路50
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.65.213/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路51
+http://39.134.64.179:6610/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路51
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8$IPV4•线路52
+http://39.134.65.251/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路52
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.65.207/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路53
+http://39.134.65.213/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路53
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路54
+http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8$IPV4•线路54
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.134.65.215/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路55
+http://39.134.65.207/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路55
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://lzjzyh.xyz:8888/udp/239.21.0.84:3676$IPV4•线路56
+http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路56
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://mryx.fun:1025/udp/239.11.0.78:1025$IPV4•线路57
+http://39.134.65.215/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路57
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://hwltc.tv.cdn.zj.chinamobi ... 21236327/index.m3u8$IPV4•线路58
+http://lzjzyh.xyz:8888/udp/239.21.0.84:3676$IPV4•线路58
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路59
+http://mryx.fun:1025/udp/239.11.0.78:1025$IPV4•线路59
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-https://jrys.haycker.eu.org:4443/play/65$IPV4•线路60
+http://hwltc.tv.cdn.zj.chinamobi ... 21236327/index.m3u8$IPV4•线路60
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://ygbh.live/migu.php$IPV4•线路61
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路61
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://111.230.30.193/php/lyd.php$IPV4•线路62
+https://jrys.haycker.eu.org:4443/play/65$IPV4•线路62
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://alvin.ergotron.net:8000/udp/239.77.0.215:5146$IPV4•线路63
+http://ygbh.live/migu.php$IPV4•线路63
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://39.135.133.153/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路64
+http://111.230.30.193/php/lyd.php$IPV4•线路64
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://goo.bkpcp.top/mg/dwqws$IPV4•线路65
+http://alvin.ergotron.net:8000/udp/239.77.0.215:5146$IPV4•线路65
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111$IPV4•线路66
+http://39.135.133.153/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路66
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111$IPV4•线路67
+http://goo.bkpcp.top/mg/dwqws$IPV4•线路67
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://nctv.top/IDOEPpiryt/migu.php$IPV4•线路68
+http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111$IPV4•线路68
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://183.162.119.241:9901/tsfile/live/1011_1.m3u8$IPV4•线路69
+http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111$IPV4•线路69
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://3501776.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路70
+http://nctv.top/IDOEPpiryt/migu.php$IPV4•线路70
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://dd.ddzb.fun/php/migu.php$IPV4•线路71
+http://183.162.119.241:9901/tsfile/live/1011_1.m3u8$IPV4•线路71
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://182.92.109.190:1668/migu720/migu720.php$IPV4•线路72
+http://dd.ddzb.fun/php/migu.php$IPV4•线路72
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://114.105.98.95:37377/migu/608917627.m3u8$IPV4•线路73
+http://182.92.109.190:1668/migu720/migu720.php$IPV4•线路73
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8$IPV4•线路74
+http://114.105.98.95:37377/migu/608917627.m3u8$IPV4•线路74
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://tianhewan.top/ZIPP.php$IPV4•线路75
+https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8$IPV4•线路75
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路76
+http://tianhewan.top/ZIPP.php$IPV4•线路76
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8$IPV4•线路77
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路77
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://14.212.185.27:9901/tsfile/live/1004_1.m3u8$IPV4•线路78
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8$IPV4•线路78
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://120.77.205.62:8087/rtp/239.77.1.12:5146$IPV4•线路79
+http://14.212.185.27:9901/tsfile/live/1004_1.m3u8$IPV4•线路79
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://103.70.13.229:20035/api.php$IPV4•线路80
+http://120.77.205.62:8087/rtp/239.77.1.12:5146$IPV4•线路80
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
-http://b.zgjok.com:35455/itv/1000000002000011619.m3u8$IPV4•线路81
+http://103.70.13.229:20035/api.php$IPV4•线路81
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
 http://alvin.ergotron.net:8000/udp/239.77.0.215:5146$IPV4•线路82
 #EXTINF:-1 group-title="🍎┃广东频道",大湾区卫视
@@ -53579,20 +53585,74 @@ http://122.117.71.103:8563/纬来育乐.m3u8$IPV4•线路3
 http://ali.hlspull.yximgs.com/live/aa99d0542cda9e41795dbb8fc08845cf.flv$IPV4•线路4
 #EXTINF:-1 group-title="🍓┃湾区频道",纬来育乐
 https://vx65267199.18cn.dpdns.org/48.m3u8$IPV4•线路5
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-01咪咕
+http://sport.pendy.dpdns.org/migu/608807420$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-01咪咕
+http://templaralone.asuscomm.com:35455/mgtv/608807420.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-02咪咕
-http://124.93.18.238:9003//hls/7/index.m3u8$IPV4
+http://sport.pendy.dpdns.org/migu/631780532$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-02咪咕
+http://templaralone.asuscomm.com:35455/mgtv/631780532.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-03咪咕
+http://sport.pendy.dpdns.org/migu/624878271$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-03咪咕
+http://templaralone.asuscomm.com:35455/mgtv/624878271.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-04咪咕
-http://fn.tmde.top:35455/mgtv/608807416.m3u8$IPV4•线路1
+http://sport.pendy.dpdns.org/migu/631780421$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-04咪咕
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8$IPV4•线路2
-#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-04咪咕
-http://192.168.6.1:7088/rtp://238.255.2.214:5999$IPV4•线路3
-#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-04咪咕
-http://goo.bkpcp.top/mg/cctv4m$IPV4•线路4
-#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-04咪咕
-http://hwltc.tv.cdn.zj.chinamobi ... 21236335/index.m3u8$IPV4•线路5
-#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-04咪咕
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8$IPV4•线路6
+http://templaralone.asuscomm.com:35455/mgtv/631780421.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-05咪咕
+http://sport.pendy.dpdns.org/migu/641886683$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-05咪咕
+http://templaralone.asuscomm.com:35455/mgtv/641886683.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-06咪咕
+http://sport.pendy.dpdns.org/migu/624878396$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-06咪咕
+http://templaralone.asuscomm.com:35455/mgtv/624878396.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-07咪咕
+http://sport.pendy.dpdns.org/migu/673168121$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-07咪咕
+http://templaralone.asuscomm.com:35455/mgtv/673168121.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-07咪咕
+http://124.93.18.238:9003//hls/7/index.m3u8$IPV4•线路3
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-08咪咕
+http://sport.pendy.dpdns.org/migu/624878356$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-08咪咕
+http://templaralone.asuscomm.com:35455/mgtv/624878356.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-09咪咕
+http://sport.pendy.dpdns.org/migu/673168140$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-09咪咕
+http://templaralone.asuscomm.com:35455/mgtv/673168140.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-10咪咕
+http://sport.pendy.dpdns.org/migu/624878405$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-10咪咕
+http://templaralone.asuscomm.com:35455/mgtv/624878405.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-11咪咕
+http://sport.pendy.dpdns.org/migu/667987558$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-11咪咕
+http://templaralone.asuscomm.com:35455/mgtv/667987558.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-12咪咕
+http://sport.pendy.dpdns.org/migu/673168185$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-12咪咕
+http://templaralone.asuscomm.com:35455/mgtv/673168185.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-13咪咕
+http://sport.pendy.dpdns.org/migu/608807423$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-13咪咕
+http://templaralone.asuscomm.com:35455/mgtv/608807423.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-14咪咕
+http://sport.pendy.dpdns.org/migu/624878440$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-14咪咕
+http://templaralone.asuscomm.com:35455/mgtv/624878440.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-15咪咕
+http://sport.pendy.dpdns.org/migu/673168223$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-15咪咕
+http://templaralone.asuscomm.com:35455/mgtv/673168223.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-16咪咕
+http://templaralone.asuscomm.com:35455/nptv/cctv16.m3u8$IPV4
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-17咪咕
+http://sport.pendy.dpdns.org/migu/673168256$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-17咪咕
+http://templaralone.asuscomm.com:35455/mgtv/673168256.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4欧洲咪咕
 http://fn.tmde.top:35455/mgtv/608807419.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4欧洲咪咕
@@ -53605,6 +53665,18 @@ http://goo.bkpcp.top/mg/cctv4o$IPV4•线路4
 http://hwltc.tv.cdn.zj.chinamobi ... 21236378/index.m3u8$IPV4•线路5
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4欧洲咪咕
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8$IPV4•线路6
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4美洲咪咕
+http://fn.tmde.top:35455/mgtv/608807416.m3u8$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4美洲咪咕
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4美洲咪咕
+http://192.168.6.1:7088/rtp://238.255.2.214:5999$IPV4•线路3
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4美洲咪咕
+http://goo.bkpcp.top/mg/cctv4m$IPV4•线路4
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4美洲咪咕
+http://hwltc.tv.cdn.zj.chinamobi ... 21236335/index.m3u8$IPV4•线路5
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV4美洲咪咕
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8$IPV4•线路6
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-4咪咕欧洲
 http://fn.tmde.top:35455/mgtv/608807419.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-4咪咕欧洲
@@ -53619,6 +53691,10 @@ http://fn.tmde.top:35455/mgtv/608807416.m3u8$IPV4•线路1
 http://124.220.159.96:35455/mgtv/608807416.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-4咪咕美洲
 http://131.186.40.172:15002/mgtv/608807416.m3u8$IPV4•线路3
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-5+咪咕
+http://sport.pendy.dpdns.org/migu/641886773$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",CCTV-5+咪咕
+http://templaralone.asuscomm.com:35455/mgtv/641886773.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",CGT西语咪咕
 http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/ysp/2022571703.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",CGT西语咪咕
@@ -53631,462 +53707,486 @@ http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8$IPV4•线
 http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/ysp/2022574903.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",CGT法语咪咕
 http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",家庭影院咪咕
+http://sport.pendy.dpdns.org/migu/644368373$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",家庭影院咪咕
+http://templaralone.asuscomm.com:35455/mgtv/644368373.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-https://fmbox.cc/huya.php$IPV4•线路1
+http://sport.pendy.dpdns.org/migu/644368714$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://huanqiuzhibo.cn/manifest/douyu.php$IPV4•线路2
+http://templaralone.asuscomm.com:35455/mgtv/644368714.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$IPV4•线路3
+https://fmbox.cc/huya.php$IPV4•线路3
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225661/.m3u8$IPV4•线路4
+http://huanqiuzhibo.cn/manifest/douyu.php$IPV4•线路4
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPV4•线路5
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8$IPV4•线路5
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://hwltc.tv.cdn.zj.chinamobi ... 21236183/index.m3u8$IPV4•线路6
+http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225661/.m3u8$IPV4•线路6
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8$IPV4•线路7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPV4•线路7
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPV4•线路8
+http://hwltc.tv.cdn.zj.chinamobi ... 21236183/index.m3u8$IPV4•线路8
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://111.43.126.240:9003/hls/75/index.m3u8$IPV4•线路9
+http://39.134.65.164/PLTV/88888888/224/3221225555/1.m3u8$IPV4•线路9
 #EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
-http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8$IPV4•线路10
+http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$IPV4•线路10
+#EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
+http://111.43.126.240:9003/hls/75/index.m3u8$IPV4•线路11
+#EXTINF:-1 group-title="🍉┃咪咕频道",动作电影咪咕
+http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225661/index.m3u8$IPV4•线路12
+#EXTINF:-1 group-title="🍉┃咪咕频道",东方卫视咪咕
+http://sport.pendy.dpdns.org/migu/651632648$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",东方卫视咪咕
+http://templaralone.asuscomm.com:35455/mgtv/651632648.m3u8$IPV4•线路2
+#EXTINF:-1 group-title="🍉┃咪咕频道",江苏卫视咪咕
+http://sport.pendy.dpdns.org/migu/783847495$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",江苏卫视咪咕
+http://templaralone.asuscomm.com:35455/mgtv/783847495.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.106/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路1
+http://sport.pendy.dpdns.org/migu/738910838$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8$IPV4•线路2
+http://templaralone.asuscomm.com:35455/mgtv/738910838.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225625/.m3u8$IPV4•线路3
+http://39.134.65.106/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路3
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路4
+http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8$IPV4•线路4
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.135.133.156:80/wh7f454c46tw239033902_328202299/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路5
+http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225625/.m3u8$IPV4•线路5
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路6
+http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路6
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.106/PLTV/88888888/224/3221225567/1.m3u8$IPV4•线路7
+http://39.135.133.156:80/wh7f454c46tw239033902_328202299/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路7
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.135.133.156:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路8
+http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路8
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8$IPV4•线路9
+http://39.134.65.106/PLTV/88888888/224/3221225567/1.m3u8$IPV4•线路9
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://gat.bkpcp.top/ymg.php$IPV4•线路10
+http://39.135.133.156:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路10
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8$IPV4•线路11
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8$IPV4•线路11
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://222.169.85.8:9901/tsfile/live/0136_1.m3u8$IPV4•线路12
+http://gat.bkpcp.top/ymg.php$IPV4•线路12
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://58.19.43.46:9901/tsfile/live/1013_1.m3u8$IPV4•线路13
+http://dsj.motem.top:8880/bptv/10000100000000050000000003887404.m3u8$IPV4•线路13
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8$IPV4•线路14
+http://222.169.85.8:9901/tsfile/live/0136_1.m3u8$IPV4•线路14
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.146.94:2024/hls/62/index.m3u8$IPV4•线路15
+http://58.19.43.46:9901/tsfile/live/1013_1.m3u8$IPV4•线路15
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://110.72.79.216:8181/tsfile/live/0136_1.m3u8$IPV4•线路16
+http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8$IPV4•线路16
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://171.38.192.248:8082udp/224.1.2.40:32040/$IPV4•线路17
+http://113.64.146.94:2024/hls/62/index.m3u8$IPV4•线路17
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://171.38.192.141:8082udp/224.1.2.40:32040/$IPV4•线路18
+http://110.72.79.216:8181/tsfile/live/0136_1.m3u8$IPV4•线路18
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://183.186.69.43:8899/tsfile/live/0136_1.m3u8$IPV4•线路19
+http://171.38.192.248:8082udp/224.1.2.40:32040/$IPV4•线路19
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://183.186.69.137:8899/tsfile/live/0136_1.m3u8$IPV4•线路20
+http://171.38.192.141:8082udp/224.1.2.40:32040/$IPV4•线路20
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://171.124.179.31:8899/tsfile/live/0136_1.m3u8$IPV4•线路21
+http://183.186.69.43:8899/tsfile/live/0136_1.m3u8$IPV4•线路21
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://58.46.28.80:9999udp/228.1.1.53:6053/$IPV4•线路22
+http://183.186.69.137:8899/tsfile/live/0136_1.m3u8$IPV4•线路22
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://221.205.67.198:9999/tsfile/live/0136_1.m3u8$IPV4•线路23
+http://171.124.179.31:8899/tsfile/live/0136_1.m3u8$IPV4•线路23
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.26.202.52:1299/tsfile/live/0136_1.m3u8$IPV4•线路24
+http://58.46.28.80:9999udp/228.1.1.53:6053/$IPV4•线路24
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.66.199.91:9901/tsfile/live/0136_1.m3u8$IPV4•线路25
+http://221.205.67.198:9999/tsfile/live/0136_1.m3u8$IPV4•线路25
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.66.199.219:9901/tsfile/live/0136_1.m3u8$IPV4•线路26
+http://113.26.202.52:1299/tsfile/live/0136_1.m3u8$IPV4•线路26
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.66.198.77:9901/tsfile/live/0136_1.m3u8$IPV4•线路27
+http://101.66.199.91:9901/tsfile/live/0136_1.m3u8$IPV4•线路27
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.66.198.187:9901/tsfile/live/0136_1.m3u8$IPV4•线路28
+http://101.66.199.219:9901/tsfile/live/0136_1.m3u8$IPV4•线路28
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.101.119.50:8090/hls/514/index.m3u8$IPV4•线路29
+http://101.66.198.77:9901/tsfile/live/0136_1.m3u8$IPV4•线路29
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.101.119.121:8090/hls/514/index.m3u8$IPV4•线路30
+http://101.66.198.187:9901/tsfile/live/0136_1.m3u8$IPV4•线路30
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://123.101.157.71:808/hls/70/index.m3u8$IPV4•线路31
+http://113.101.119.50:8090/hls/514/index.m3u8$IPV4•线路31
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.186:808/udp/224.2.2.79:10001$IPV4•线路32
+http://113.101.119.121:8090/hls/514/index.m3u8$IPV4•线路32
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.186:808/udp/224.2.2.80:10001$IPV4•线路33
+http://123.101.157.71:808/hls/70/index.m3u8$IPV4•线路33
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.2:808/udp/224.2.2.79:10001$IPV4•线路34
+http://101.19.151.186:808/udp/224.2.2.79:10001$IPV4•线路34
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.2:808/udp/224.2.2.80:10001$IPV4•线路35
+http://101.19.151.186:808/udp/224.2.2.80:10001$IPV4•线路35
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.85:808/udp/224.2.2.79:10001$IPV4•线路36
+http://101.19.151.2:808/udp/224.2.2.79:10001$IPV4•线路36
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.85:808/udp/224.2.2.80:10001$IPV4•线路37
+http://101.19.151.2:808/udp/224.2.2.80:10001$IPV4•线路37
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.109:808/udp/224.2.2.79:10001$IPV4•线路38
+http://101.19.151.85:808/udp/224.2.2.79:10001$IPV4•线路38
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.109:808/udp/224.2.2.80:10001$IPV4•线路39
+http://101.19.151.85:808/udp/224.2.2.80:10001$IPV4•线路39
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.134:808/udp/224.2.2.79:10001$IPV4•线路40
+http://101.19.151.109:808/udp/224.2.2.79:10001$IPV4•线路40
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.134:808/udp/224.2.2.80:10001$IPV4•线路41
+http://101.19.151.109:808/udp/224.2.2.80:10001$IPV4•线路41
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.104:808/udp/224.2.2.79:10001$IPV4•线路42
+http://101.19.151.134:808/udp/224.2.2.79:10001$IPV4•线路42
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.104:808/udp/224.2.2.80:10001$IPV4•线路43
+http://101.19.151.134:808/udp/224.2.2.80:10001$IPV4•线路43
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.95:808/udp/224.2.2.79:10001$IPV4•线路44
+http://101.19.151.104:808/udp/224.2.2.79:10001$IPV4•线路44
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.95:808/udp/224.2.2.80:10001$IPV4•线路45
+http://101.19.151.104:808/udp/224.2.2.80:10001$IPV4•线路45
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.62:808/udp/224.2.2.79:10001$IPV4•线路46
+http://101.19.151.95:808/udp/224.2.2.79:10001$IPV4•线路46
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.62:808/udp/224.2.2.80:10001$IPV4•线路47
+http://101.19.151.95:808/udp/224.2.2.80:10001$IPV4•线路47
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.113:808/udp/224.2.2.79:10001$IPV4•线路48
+http://101.19.151.62:808/udp/224.2.2.79:10001$IPV4•线路48
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.113:808/udp/224.2.2.80:10001$IPV4•线路49
+http://101.19.151.62:808/udp/224.2.2.80:10001$IPV4•线路49
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.26:808/udp/224.2.2.79:10001$IPV4•线路50
+http://101.19.151.113:808/udp/224.2.2.79:10001$IPV4•线路50
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.26:808/udp/224.2.2.80:10001$IPV4•线路51
+http://101.19.151.113:808/udp/224.2.2.80:10001$IPV4•线路51
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.65:808/udp/224.2.2.79:10001$IPV4•线路52
+http://101.19.151.26:808/udp/224.2.2.79:10001$IPV4•线路52
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.65:808/udp/224.2.2.80:10001$IPV4•线路53
+http://101.19.151.26:808/udp/224.2.2.80:10001$IPV4•线路53
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.45:808/udp/224.2.2.79:10001$IPV4•线路54
+http://101.19.151.65:808/udp/224.2.2.79:10001$IPV4•线路54
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.45:808/udp/224.2.2.80:10001$IPV4•线路55
+http://101.19.151.65:808/udp/224.2.2.80:10001$IPV4•线路55
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.140:808/udp/224.2.2.79:10001$IPV4•线路56
+http://101.19.151.45:808/udp/224.2.2.79:10001$IPV4•线路56
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.140:808/udp/224.2.2.80:10001$IPV4•线路57
+http://101.19.151.45:808/udp/224.2.2.80:10001$IPV4•线路57
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.24:808/udp/224.2.2.79:10001$IPV4•线路58
+http://101.19.151.140:808/udp/224.2.2.79:10001$IPV4•线路58
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.24:808/udp/224.2.2.80:10001$IPV4•线路59
+http://101.19.151.140:808/udp/224.2.2.80:10001$IPV4•线路59
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.34:808/udp/224.2.2.79:10001$IPV4•线路60
+http://101.19.151.24:808/udp/224.2.2.79:10001$IPV4•线路60
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.34:808/udp/224.2.2.80:10001$IPV4•线路61
+http://101.19.151.24:808/udp/224.2.2.80:10001$IPV4•线路61
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.90:808/udp/224.2.2.79:10001$IPV4•线路62
+http://101.19.151.34:808/udp/224.2.2.79:10001$IPV4•线路62
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.151.90:808/udp/224.2.2.80:10001$IPV4•线路63
+http://101.19.151.34:808/udp/224.2.2.80:10001$IPV4•线路63
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://219.137.203.191:8081/hls/65/index.m3u8$IPV4•线路64
+http://101.19.151.90:808/udp/224.2.2.79:10001$IPV4•线路64
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://123.12.185.11:808/hls/59/index.m3u8$IPV4•线路65
+http://101.19.151.90:808/udp/224.2.2.80:10001$IPV4•线路65
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://123.12.185.152:808/hls/59/index.m3u8$IPV4•线路66
+http://219.137.203.191:8081/hls/65/index.m3u8$IPV4•线路66
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.228:808/udp/224.2.2.79:10001$IPV4•线路67
+http://123.12.185.11:808/hls/59/index.m3u8$IPV4•线路67
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.228:808/udp/224.2.2.80:10001$IPV4•线路68
+http://123.12.185.152:808/hls/59/index.m3u8$IPV4•线路68
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.33:808/udp/224.2.2.79:10001$IPV4•线路69
+http://101.19.150.228:808/udp/224.2.2.79:10001$IPV4•线路69
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.33:808/udp/224.2.2.80:10001$IPV4•线路70
+http://101.19.150.228:808/udp/224.2.2.80:10001$IPV4•线路70
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.30:808/udp/224.2.2.79:10001$IPV4•线路71
+http://101.19.150.33:808/udp/224.2.2.79:10001$IPV4•线路71
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.30:808/udp/224.2.2.80:10001$IPV4•线路72
+http://101.19.150.33:808/udp/224.2.2.80:10001$IPV4•线路72
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.39:808/udp/224.2.2.79:10001$IPV4•线路73
+http://101.19.150.30:808/udp/224.2.2.79:10001$IPV4•线路73
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.39:808/udp/224.2.2.80:10001$IPV4•线路74
+http://101.19.150.30:808/udp/224.2.2.80:10001$IPV4•线路74
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.5:808/udp/224.2.2.79:10001$IPV4•线路75
+http://101.19.150.39:808/udp/224.2.2.79:10001$IPV4•线路75
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.5:808/udp/224.2.2.80:10001$IPV4•线路76
+http://101.19.150.39:808/udp/224.2.2.80:10001$IPV4•线路76
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.25:808/udp/224.2.2.79:10001$IPV4•线路77
+http://101.19.150.5:808/udp/224.2.2.79:10001$IPV4•线路77
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.25:808/udp/224.2.2.80:10001$IPV4•线路78
+http://101.19.150.5:808/udp/224.2.2.80:10001$IPV4•线路78
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.57:808/udp/224.2.2.79:10001$IPV4•线路79
+http://101.19.150.25:808/udp/224.2.2.79:10001$IPV4•线路79
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.57:808/udp/224.2.2.80:10001$IPV4•线路80
+http://101.19.150.25:808/udp/224.2.2.80:10001$IPV4•线路80
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.29:808/udp/224.2.2.79:10001$IPV4•线路81
+http://101.19.150.57:808/udp/224.2.2.79:10001$IPV4•线路81
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.29:808/udp/224.2.2.80:10001$IPV4•线路82
+http://101.19.150.57:808/udp/224.2.2.80:10001$IPV4•线路82
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.50:808/udp/224.2.2.79:10001$IPV4•线路83
+http://101.19.150.29:808/udp/224.2.2.79:10001$IPV4•线路83
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.50:808/udp/224.2.2.80:10001$IPV4•线路84
+http://101.19.150.29:808/udp/224.2.2.80:10001$IPV4•线路84
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.105:808/udp/224.2.2.79:10001$IPV4•线路85
+http://101.19.150.50:808/udp/224.2.2.79:10001$IPV4•线路85
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.105:808/udp/224.2.2.80:10001$IPV4•线路86
+http://101.19.150.50:808/udp/224.2.2.80:10001$IPV4•线路86
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.27:808/udp/224.2.2.79:10001$IPV4•线路87
+http://101.19.150.105:808/udp/224.2.2.79:10001$IPV4•线路87
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.27:808/udp/224.2.2.80:10001$IPV4•线路88
+http://101.19.150.105:808/udp/224.2.2.80:10001$IPV4•线路88
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.151:808/udp/224.2.2.79:10001$IPV4•线路89
+http://101.19.150.27:808/udp/224.2.2.79:10001$IPV4•线路89
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.151:808/udp/224.2.2.80:10001$IPV4•线路90
+http://101.19.150.27:808/udp/224.2.2.80:10001$IPV4•线路90
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.174:808/udp/224.2.2.79:10001$IPV4•线路91
+http://101.19.150.151:808/udp/224.2.2.79:10001$IPV4•线路91
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.174:808/udp/224.2.2.80:10001$IPV4•线路92
+http://101.19.150.151:808/udp/224.2.2.80:10001$IPV4•线路92
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.112:808/udp/224.2.2.79:10001$IPV4•线路93
+http://101.19.150.174:808/udp/224.2.2.79:10001$IPV4•线路93
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.112:808/udp/224.2.2.80:10001$IPV4•线路94
+http://101.19.150.174:808/udp/224.2.2.80:10001$IPV4•线路94
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.91:808/udp/224.2.2.79:10001$IPV4•线路95
+http://101.19.150.112:808/udp/224.2.2.79:10001$IPV4•线路95
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.91:808/udp/224.2.2.80:10001$IPV4•线路96
+http://101.19.150.112:808/udp/224.2.2.80:10001$IPV4•线路96
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.94:808/udp/224.2.2.79:10001$IPV4•线路97
+http://101.19.150.91:808/udp/224.2.2.79:10001$IPV4•线路97
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.94:808/udp/224.2.2.80:10001$IPV4•线路98
+http://101.19.150.91:808/udp/224.2.2.80:10001$IPV4•线路98
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.209:808/udp/224.2.2.79:10001$IPV4•线路99
+http://101.19.150.94:808/udp/224.2.2.79:10001$IPV4•线路99
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.209:808/udp/224.2.2.80:10001$IPV4•线路100
+http://101.19.150.94:808/udp/224.2.2.80:10001$IPV4•线路100
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.246:808/udp/224.2.2.79:10001$IPV4•线路101
+http://101.19.150.209:808/udp/224.2.2.79:10001$IPV4•线路101
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.246:808/udp/224.2.2.80:10001$IPV4•线路102
+http://101.19.150.209:808/udp/224.2.2.80:10001$IPV4•线路102
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.229:808/udp/224.2.2.79:10001$IPV4•线路103
+http://101.19.150.246:808/udp/224.2.2.79:10001$IPV4•线路103
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.229:808/udp/224.2.2.80:10001$IPV4•线路104
+http://101.19.150.246:808/udp/224.2.2.80:10001$IPV4•线路104
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.165:808/udp/224.2.2.79:10001$IPV4•线路105
+http://101.19.150.229:808/udp/224.2.2.79:10001$IPV4•线路105
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.165:808/udp/224.2.2.80:10001$IPV4•线路106
+http://101.19.150.229:808/udp/224.2.2.80:10001$IPV4•线路106
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.218:808/udp/224.2.2.79:10001$IPV4•线路107
+http://101.19.150.165:808/udp/224.2.2.79:10001$IPV4•线路107
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.218:808/udp/224.2.2.80:10001$IPV4•线路108
+http://101.19.150.165:808/udp/224.2.2.80:10001$IPV4•线路108
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.114:808/udp/224.2.2.79:10001$IPV4•线路109
+http://101.19.150.218:808/udp/224.2.2.79:10001$IPV4•线路109
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.114:808/udp/224.2.2.80:10001$IPV4•线路110
+http://101.19.150.218:808/udp/224.2.2.80:10001$IPV4•线路110
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.48:808/udp/224.2.2.79:10001$IPV4•线路111
+http://101.19.150.114:808/udp/224.2.2.79:10001$IPV4•线路111
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.48:808/udp/224.2.2.80:10001$IPV4•线路112
+http://101.19.150.114:808/udp/224.2.2.80:10001$IPV4•线路112
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.149:808/udp/224.2.2.79:10001$IPV4•线路113
+http://101.19.150.48:808/udp/224.2.2.79:10001$IPV4•线路113
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.149:808/udp/224.2.2.80:10001$IPV4•线路114
+http://101.19.150.48:808/udp/224.2.2.80:10001$IPV4•线路114
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.250:808/udp/224.2.2.79:10001$IPV4•线路115
+http://101.19.150.149:808/udp/224.2.2.79:10001$IPV4•线路115
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.250:808/udp/224.2.2.80:10001$IPV4•线路116
+http://101.19.150.149:808/udp/224.2.2.80:10001$IPV4•线路116
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.100:808/udp/224.2.2.79:10001$IPV4•线路117
+http://101.19.150.250:808/udp/224.2.2.79:10001$IPV4•线路117
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.100:808/udp/224.2.2.80:10001$IPV4•线路118
+http://101.19.150.250:808/udp/224.2.2.80:10001$IPV4•线路118
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.158:808/udp/224.2.2.79:10001$IPV4•线路119
+http://101.19.150.100:808/udp/224.2.2.79:10001$IPV4•线路119
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.158:808/udp/224.2.2.80:10001$IPV4•线路120
+http://101.19.150.100:808/udp/224.2.2.80:10001$IPV4•线路120
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.132:808/udp/224.2.2.79:10001$IPV4•线路121
+http://101.19.150.158:808/udp/224.2.2.79:10001$IPV4•线路121
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://101.19.150.132:808/udp/224.2.2.80:10001$IPV4•线路122
+http://101.19.150.158:808/udp/224.2.2.80:10001$IPV4•线路122
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://123.13.156.137:808/hls/59/index.m3u8$IPV4•线路123
+http://101.19.150.132:808/udp/224.2.2.79:10001$IPV4•线路123
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.108:8081/hls/97/index.m3u8$IPV4•线路124
+http://101.19.150.132:808/udp/224.2.2.80:10001$IPV4•线路124
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.16:8081/hls/97/index.m3u8$IPV4•线路125
+http://123.13.156.137:808/hls/59/index.m3u8$IPV4•线路125
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.162:8081/hls/97/index.m3u8$IPV4•线路126
+http://113.64.147.108:8081/hls/97/index.m3u8$IPV4•线路126
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.231:8081/hls/97/index.m3u8$IPV4•线路127
+http://113.64.147.16:8081/hls/97/index.m3u8$IPV4•线路127
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.152:8081/hls/97/index.m3u8$IPV4•线路128
+http://113.64.147.162:8081/hls/97/index.m3u8$IPV4•线路128
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.87:8081/hls/97/index.m3u8$IPV4•线路129
+http://113.64.147.231:8081/hls/97/index.m3u8$IPV4•线路129
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.233:8081/hls/97/index.m3u8$IPV4•线路130
+http://113.64.147.152:8081/hls/97/index.m3u8$IPV4•线路130
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.214:8081/hls/97/index.m3u8$IPV4•线路131
+http://113.64.147.87:8081/hls/97/index.m3u8$IPV4•线路131
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.246:8081/hls/97/index.m3u8$IPV4•线路132
+http://113.64.147.233:8081/hls/97/index.m3u8$IPV4•线路132
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.164:8081/hls/97/index.m3u8$IPV4•线路133
+http://113.64.147.214:8081/hls/97/index.m3u8$IPV4•线路133
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.97:8081/hls/97/index.m3u8$IPV4•线路134
+http://113.64.147.246:8081/hls/97/index.m3u8$IPV4•线路134
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.247:8081/hls/97/index.m3u8$IPV4•线路135
+http://113.64.147.164:8081/hls/97/index.m3u8$IPV4•线路135
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.64.147.201:8081/hls/97/index.m3u8$IPV4•线路136
+http://113.64.147.97:8081/hls/97/index.m3u8$IPV4•线路136
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://113.195.172.192:808/udp/239.3.3.66:10001$IPV4•线路137
+http://113.64.147.247:8081/hls/97/index.m3u8$IPV4•线路137
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://118.250.149.102:8082/hls/42/index.m3u8$IPV4•线路138
+http://113.64.147.201:8081/hls/97/index.m3u8$IPV4•线路138
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://122.233.199.46:8888/rtp/233.50.200.170:5140$IPV4•线路139
+http://113.195.172.192:808/udp/239.3.3.66:10001$IPV4•线路139
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://122.233.199.46:8888/rtp/233.50.200.172:5140$IPV4•线路140
+http://118.250.149.102:8082/hls/42/index.m3u8$IPV4•线路140
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://122.233.199.46:8888/rtp/233.50.201.59:5140$IPV4•线路141
+http://122.233.199.46:8888/rtp/233.50.200.170:5140$IPV4•线路141
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://122.234.14.200:8888/rtp/233.50.200.170:5140$IPV4•线路142
+http://122.233.199.46:8888/rtp/233.50.200.172:5140$IPV4•线路142
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://122.234.14.200:8888/rtp/233.50.200.172:5140$IPV4•线路143
+http://122.233.199.46:8888/rtp/233.50.201.59:5140$IPV4•线路143
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://122.234.14.200:8888/rtp/233.50.201.59:5140$IPV4•线路144
+http://122.234.14.200:8888/rtp/233.50.200.170:5140$IPV4•线路144
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://183.133.104.144:8899/rtp/233.50.200.170:5140$IPV4•线路145
+http://122.234.14.200:8888/rtp/233.50.200.172:5140$IPV4•线路145
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://183.133.104.144:8899/rtp/233.50.200.172:5140$IPV4•线路146
+http://122.234.14.200:8888/rtp/233.50.201.59:5140$IPV4•线路146
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://183.133.104.144:8899/rtp/233.50.201.59:5140$IPV4•线路147
+http://183.133.104.144:8899/rtp/233.50.200.170:5140$IPV4•线路147
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://home.wwang.pw:35455/itv/1000000002000007495.m3u8$IPV4•线路148
+http://183.133.104.144:8899/rtp/233.50.200.172:5140$IPV4•线路148
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://fn.tmde.top:35455/nptv/shanxiws.m3u8$IPV4•线路149
+http://183.133.104.144:8899/rtp/233.50.201.59:5140$IPV4•线路149
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.164.180.36:19901/tsfile/live/0136_1.m3u8$IPV4•线路150
+http://home.wwang.pw:35455/itv/1000000002000007495.m3u8$IPV4•线路150
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.164.180.36:19901/tsfile/live/0136_1.m3u8$IPV4•线路151
+http://fn.tmde.top:35455/nptv/shanxiws.m3u8$IPV4•线路151
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8$IPV4•线路152
+http://39.164.180.36:19901/tsfile/live/0136_1.m3u8$IPV4•线路152
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.164.180.36:19901/tsfile/live/0136_1.m3u8#http://39.164.180.36:19901/tsfile/live/0136_1.m3u8#http://39.164.180.36:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0#http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=$IPV4•线路153
+http://39.164.180.36:19901/tsfile/live/0136_1.m3u8$IPV4•线路153
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://61.156.228.12:8154/tsfile/live/0136_1.m3u8$IPV4•线路154
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8$IPV4•线路154
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://120.238.94.10:9901/tsfile/live/1070_1.m3u8#rtsp://115.85.232.19/PLTV/88888910/224/3221225544/10000100000000060000000000107324_0.smil$IPV4•线路155
+http://39.164.180.36:19901/tsfile/live/0136_1.m3u8#http://39.164.180.36:19901/tsfile/live/0136_1.m3u8#http://39.164.180.36:19901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0#http://hlsbkmgsplive.miguvideo.com/migu/kailu/shan3xiws/57/20220809/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=$IPV4•线路155
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://42.225.117.174:11199/tsfile/live/0136_1.m3u8$IPV4•线路156
+http://61.156.228.12:8154/tsfile/live/0136_1.m3u8$IPV4•线路156
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://1.195.30.9:19901/tsfile/live/0136_1.m3u8$IPV4•线路157
+http://120.238.94.10:9901/tsfile/live/1070_1.m3u8#rtsp://115.85.232.19/PLTV/88888910/224/3221225544/10000100000000060000000000107324_0.smil$IPV4•线路157
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://221.2.148.205:8154/tsfile/live/0136_1.m3u8$IPV4•线路158
+http://42.225.117.174:11199/tsfile/live/0136_1.m3u8$IPV4•线路158
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://218.89.240.144:59901/tsfile/live/0136_1.m3u8$IPV4•线路159
+http://1.195.30.9:19901/tsfile/live/0136_1.m3u8$IPV4•线路159
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://61.138.128.226:19901/tsfile/live/0136_1.m3u8$IPV4•线路160
+http://221.2.148.205:8154/tsfile/live/0136_1.m3u8$IPV4•线路160
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://112.101.78.50:9901/tsfile/live/0136_1.m3u8$IPV4•线路161
+http://218.89.240.144:59901/tsfile/live/0136_1.m3u8$IPV4•线路161
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://stream.snrtv.com/sxbc-star-pCGMS6.m3u8$IPV4•线路162
+http://61.138.128.226:19901/tsfile/live/0136_1.m3u8$IPV4•线路162
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://112.46.85.60:8009/hls/17/index.m3u8$IPV4•线路163
+http://112.101.78.50:9901/tsfile/live/0136_1.m3u8$IPV4•线路163
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8$IPV4•线路164
+http://stream.snrtv.com/sxbc-star-pCGMS6.m3u8$IPV4•线路164
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://www.terrykang.xyz:35455/itv/1000000002000007495.m3u8$IPV4•线路165
+http://112.46.85.60:8009/hls/17/index.m3u8$IPV4•线路165
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://dsm.huarunguoji.top:35455/itv/1000000002000007495.m3u8$IPV4•线路166
+http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8$IPV4•线路166
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-https://www.freetv.top/migu/738910838.m3u8$IPV4•线路167
+http://www.terrykang.xyz:35455/itv/1000000002000007495.m3u8$IPV4•线路167
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8$IPV4•线路168
+http://dsm.huarunguoji.top:35455/itv/1000000002000007495.m3u8$IPV4•线路168
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路169
+https://www.freetv.top/migu/738910838.m3u8$IPV4•线路169
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://124.116.183.146:9901/tsfile/live/0136_1.m3u8$IPV4•线路170
+http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236370/index.m3u8$IPV4•线路170
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://goo.bkpcp.top/mg/sxws$IPV4•线路171
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路171
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8$IPV4•线路172
+http://124.116.183.146:9901/tsfile/live/0136_1.m3u8$IPV4•线路172
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://111.43.126.240:9003/hls/68/index.m3u8$IPV4•线路173
+http://goo.bkpcp.top/mg/sxws$IPV4•线路173
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$IPV4•线路174
+http://ott.mobaibox.com/PLTV/3/224/3221227583/index.m3u8$IPV4•线路174
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路175
+http://111.43.126.240:9003/hls/68/index.m3u8$IPV4•线路175
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226892/index.m3u8$IPV4•线路176
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$IPV4•线路176
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/1.m3u8$IPV4•线路177
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路177
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://219.150.217.47:6610/PLTV1/1140/index.m3u8$IPV4•线路178
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226892/index.m3u8$IPV4•线路178
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8$IPV4•线路179
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/1.m3u8$IPV4•线路179
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225688/10000100000000060000000000146047_0.smil/index.m3u8$IPV4•线路180
+http://219.150.217.47:6610/PLTV1/1140/index.m3u8$IPV4•线路180
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://192.168.6.1:7088/rtp://238.255.2.72:5999$IPV4•线路181
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8$IPV4•线路181
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://171.15.18.199:8180/TV00000000000000000039@HHZT$IPV4•线路182
+http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221225688/10000100000000060000000000146047_0.smil/index.m3u8$IPV4•线路182
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226892/index.m3u8$IPV4•线路183
+http://192.168.6.1:7088/rtp://238.255.2.72:5999$IPV4•线路183
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.249/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路184
+http://171.15.18.199:8180/TV00000000000000000039@HHZT$IPV4•线路184
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.64.179:6610/PLTV/88888888/224/3221226457/index.m3u8$IPV4•线路185
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226892/index.m3u8$IPV4•线路185
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$IPV4•线路186
+http://39.134.65.249/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路186
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.200/PLTV/88888888/224/3221225567/1.m3u8$IPV4•线路187
+http://39.134.64.179:6610/PLTV/88888888/224/3221226457/index.m3u8$IPV4•线路187
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.243/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路188
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8$IPV4•线路188
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.213/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路189
+http://39.134.65.200/PLTV/88888888/224/3221225567/1.m3u8$IPV4•线路189
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.136.161:6610/000000001000/5000000006000040017/index.m3u8$IPV4•线路190
+http://39.134.65.243/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路190
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.136.161:6610/000000001000/1000000002000007495/index.m3u8$IPV4•线路191
+http://39.134.65.213/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路191
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.136.161:6610/000000001000/7120278140251237664/index.m3u8$IPV4•线路192
+http://39.134.136.161:6610/000000001000/5000000006000040017/index.m3u8$IPV4•线路192
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.207/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路193
+http://39.134.136.161:6610/000000001000/1000000002000007495/index.m3u8$IPV4•线路193
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.64.179:6610/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路194
+http://39.134.136.161:6610/000000001000/7120278140251237664/index.m3u8$IPV4•线路194
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.215/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路195
+http://39.134.65.207/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路195
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.247/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路196
+http://39.134.64.179:6610/PLTV/88888888/224/3221225625/index.m3u8$IPV4•线路196
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.196/PLTV/88888888/224/3221225567/1.m3u8$IPV4•线路197
+http://39.134.65.215/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路197
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.65.209/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路198
+http://39.134.65.247/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路198
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.136.161:6610/000000001000/7400528621461986101/index.m3u8$IPV4•线路199
+http://39.134.65.196/PLTV/88888888/224/3221225567/1.m3u8$IPV4•线路199
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.136.161:6610/000000001000/6194965711565916623/index.m3u8$IPV4•线路200
+http://39.134.65.209/PLTV/88888888/224/3221225989/1.m3u8$IPV4•线路200
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://61.190.129.195:8688/rtp/238.1.78.88:6576$IPV4•线路201
+http://39.134.136.161:6610/000000001000/7400528621461986101/index.m3u8$IPV4•线路201
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://211.162.39.193:81/live/SXWS3-1500k/live.m3u8$IPV4•线路202
+http://39.134.136.161:6610/000000001000/6194965711565916623/index.m3u8$IPV4•线路202
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://nb.thkss.com:9981/stream/channelid/486563405$IPV4•线路203
+http://61.190.129.195:8688/rtp/238.1.78.88:6576$IPV4•线路203
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://hwltc.tv.cdn.zj.chinamobi ... 21236370/index.m3u8$IPV4•线路204
+http://211.162.39.193:81/live/SXWS3-1500k/live.m3u8$IPV4•线路204
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226457/index.m3u8$IPV4•线路205
+http://nb.thkss.com:9981/stream/channelid/486563405$IPV4•线路205
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://218.71.45.167:9999/udp/233.50.201.59:5140$IPV4•线路206
+http://hwltc.tv.cdn.zj.chinamobi ... 21236370/index.m3u8$IPV4•线路206
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8$IPV4•线路207
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226457/index.m3u8$IPV4•线路207
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://mail.petzhu.top:7000/rtp/239.254.200.82:8140$IPV4•线路208
+http://218.71.45.167:9999/udp/233.50.201.59:5140$IPV4•线路208
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://alvin.ergotron.net:8000/udp/239.77.1.54:5146$IPV4•线路209
+http://39.134.66.66/PLTV/88888888/224/3221225567/index.m3u8$IPV4•线路209
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://home.huaz.site:4000/udp/239.21.1.30:5002$IPV4•线路210
+http://mail.petzhu.top:7000/rtp/239.254.200.82:8140$IPV4•线路210
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://120.197.112.28:9901/tsfile/live/1043_1.m3u8$IPV4•线路211
+http://alvin.ergotron.net:8000/udp/239.77.1.54:5146$IPV4•线路211
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://1b6467f415.iok.la:9931/tsfile/live/1083_1.m3u8$IPV4•线路212
+http://home.huaz.site:4000/udp/239.21.1.30:5002$IPV4•线路212
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://111.14.181.15:9901/tsfile/live/0136_1.m3u8$IPV4•线路213
+http://120.197.112.28:9901/tsfile/live/1043_1.m3u8$IPV4•线路213
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://60.10.139.10:8801/hls/53/index.m3u8$IPV4•线路214
+http://1b6467f415.iok.la:9931/tsfile/live/1083_1.m3u8$IPV4•线路214
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://fxgm.fxjf.work:19901/tsfile/live/0136_1.m3u8$IPV4•线路215
+http://111.14.181.15:9901/tsfile/live/0136_1.m3u8$IPV4•线路215
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://dassby.qqff.top:99/live/陕西卫视/index.m3u8$IPV4•线路216
+http://60.10.139.10:8801/hls/53/index.m3u8$IPV4•线路216
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://nas.hssvm.com:8888/udp/225.1.1.41:5002$IPV4•线路217
+http://fxgm.fxjf.work:19901/tsfile/live/0136_1.m3u8$IPV4•线路217
 #EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
-http://sh.lnott.top:880/dx51.m3u8$IPV4•线路218
+http://dassby.qqff.top:99/live/陕西卫视/index.m3u8$IPV4•线路218
+#EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
+http://nas.hssvm.com:8888/udp/225.1.1.41:5002$IPV4•线路219
+#EXTINF:-1 group-title="🍉┃咪咕频道",陕西卫视咪咕
+http://sh.lnott.top:880/dx51.m3u8$IPV4•线路220
+#EXTINF:-1 group-title="🍉┃咪咕频道",湖北卫视咪咕
+http://sport.pendy.dpdns.org/migu/947472496$IPV4•线路1
+#EXTINF:-1 group-title="🍉┃咪咕频道",湖北卫视咪咕
+http://templaralone.asuscomm.com:35455/mgtv/947472496.m3u8$IPV4•线路2
 #EXTINF:-1 group-title="🍉┃咪咕频道",新片映厅咪咕
 http://live.nctv.top/6688/yy.php$IPV4•线路1
 #EXTINF:-1 group-title="🍉┃咪咕频道",新片映厅咪咕
@@ -54102,7 +54202,7 @@ http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8$IPV4•�
 #EXTINF:-1 group-title="🐟┃少儿频道",iFun动漫
 https://tv.iill.top/litv/litv-ftv15$IPV4
 #EXTINF:-1 group-title="🐟┃少儿频道",momo亲子
-https://tv.iill.top/4gtv/231$IPV4
+http://37.27.111.214:8080/live/3/hls.m3u8$IPV4
 #EXTINF:-1 group-title="🐟┃少儿频道",黑莓动画
 http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🐟┃少儿频道",黑莓动画
@@ -55467,8 +55567,6 @@ http://117.8.143.150:8834/rtp/225.1.1.215:5002$IPV4•线路120
 http://58.46.210.223:4022/udp/239.76.252.243:9000$IPV4•线路121
 #EXTINF:-1 group-title="🐶┃影视频道",CHC动作电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPV4•线路122
-#EXTINF:-1 group-title="🐶┃影视频道",CHC动作电影
-http://sport.pendy.dpdns.org/migu/644368714$IPV4•线路123
 #EXTINF:-1 group-title="🐶┃影视频道",CHC高清电影
 http://120.198.101.106:9901/tsfile/live/1053_1.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🐶┃影视频道",CHC高清电影
@@ -55689,8 +55787,6 @@ http://58.46.210.223:4022/udp/239.76.252.241:9000$IPV4•线路94
 http://58.46.179.245:4022/udp/239.76.245.241:1234$IPV4•线路95
 #EXTINF:-1 group-title="🐶┃影视频道",CHC家庭影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPV4•线路96
-#EXTINF:-1 group-title="🐶┃影视频道",CHC家庭影院
-http://sport.pendy.dpdns.org/migu/644368373$IPV4•线路97
 #EXTINF:-1 group-title="🐶┃影视频道",NewTV惊悚悬疑
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPV4•线路1
 #EXTINF:-1 group-title="🐶┃影视频道",NewTV惊悚悬疑
