@@ -1,5 +1,5 @@
 更新日期,#genre#
-2025-06-29,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
+2025-07-01,https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/main/Pictures/Robot.mp4
 🍎┃广东频道,#genre#
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8$IPV4•线路1
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-29.ctv$IPV4•线路2
@@ -51,19 +51,19 @@
 广州综合,http://v4d.xiepeiru.top:1123/iptv/gq/GuangZhouZongHe$IPV4•线路48
 广州综合,http://119.32.12.32:2901/udp/224.1.100.36:11111$IPV4•线路49
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-21.ctv$IPV4•线路50
-广州综合,http://php.jdshipin.com:8880/gztv.php$IPV4•线路51
-广州综合,http://nn.7x9d.cn/地方台8563/gsw.php$IPV4•线路52
-广州综合,http://14.117.233.31:8688/rtp/239.253.43.71:5146$IPV4•线路53
-广州综合,http://dns.yiandrive.com:15907/gztv/zhonghe$IPV4•线路54
-广州综合,http://120.77.205.62:8087/rtp/239.253.43.66:5146$IPV4•线路55
-广州综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php$IPV4•线路56
-广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$IPV4•线路57
-广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$IPV4•线路58
-广州综合,http://r.jdshipin.com/snhya$IPV4•线路59
-广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路60
-广州综合,http://php.jdshipin.com:8880/xsj.php$IPV4•线路61
-广州综合,http://r.jdshipin.com/snhya$IPV4•线路62
-广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路63
+广州综合,http://14.117.233.31:8688/rtp/239.253.43.71:5146$IPV4•线路51
+广州综合,http://dns.yiandrive.com:15907/gztv/zhonghe$IPV4•线路52
+广州综合,http://php.jdshipin.com:8880/gztv.php$IPV4•线路53
+广州综合,http://120.77.205.62:8087/rtp/239.253.43.66:5146$IPV4•线路54
+广州综合,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p10.php$IPV4•线路55
+广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$IPV4•线路56
+广州综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8$IPV4•线路57
+广州综合,http://r.jdshipin.com/snhya$IPV4•线路58
+广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路59
+广州综合,http://php.jdshipin.com:8880/xsj.php$IPV4•线路60
+广州综合,http://r.jdshipin.com/snhya$IPV4•线路61
+广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8$IPV4•线路62
+广州综合,http://nn.7x9d.cn/地方台8563/gsw.php$IPV4•线路63
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-20.ctv$IPV4•线路64
 广州综合,http://dns.yiandrive.com:13571/gztv/zhonghe$IPV4•线路65
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8$IPV4•线路1
@@ -215,47 +215,45 @@
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-30.ctv$IPV4•线路104
 广东珠江,http://mh0.asia:35455/itv/1000000004000011655.m3u8$IPV4•线路105
 广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8$IPV4•线路106
-广东珠江,http://php.jdshipin.com/TVOD/hnyd.php$IPV4•线路107
-广东珠江,http://ku9.3n.cc/smt.php$IPV4•线路108
-广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8$IPV4•线路109
-广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8$IPV4•线路110
-广东珠江,http://gslbserv.itv.cmvideo.cn:80/1.m3u8$IPV4•线路111
-广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$IPV4•线路112
-广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8$IPV4•线路113
-广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$IPV4•线路114
-广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$IPV4•线路115
-广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php$IPV4•线路116
-广东珠江,http://php.jdshipin.com:8880/chudian.php$IPV4•线路117
-广东珠江,http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8$IPV4•线路118
-广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8$IPV4•线路119
-广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146$IPV4•线路120
-广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$IPV4•线路121
-广东珠江,http://119.125.134.176:9901/tsfile/live/1003_1.m3u8$IPV4•线路122
-广东珠江,http://14.212.185.71:9901/tsfile/live/1000_1.m3u8$IPV4•线路123
-广东珠江,http://222.218.158.25:8181/tsfile/live/1000_1.m3u8$IPV4•线路124
-广东珠江,http://58.254.14.231:808/hls/55/index.m3u8$IPV4•线路125
-广东珠江,http://14.112.86.85:4022/udp/239.77.0.1:5146$IPV4•线路126
-广东珠江,http://125.90.252.38:4022/udp/239.77.0.1:5146$IPV4•线路127
-广东珠江,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8$IPV4•线路128
-广东珠江,http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8$IPV4•线路129
-广东珠江,http://gslbserv.itv.cmvideo.cn/1.m3u8$IPV4•线路130
-广东珠江,http://lzjzyh.xyz:8888/udp/239.20.0.64:3144$IPV4•线路131
-广东珠江,http://mryx.fun:1025/udp/239.10.0.62:1025$IPV4•线路132
-广东珠江,http://php.jdshipin.com:8880/itv6.php$IPV4•线路133
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8$IPV4•线路107
+广东珠江,http://gslbserv.itv.cmvideo.cn:80/1.m3u8$IPV4•线路108
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$IPV4•线路109
+广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8$IPV4•线路110
+广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8$IPV4•线路111
+广东珠江,http://gmxw.7766.org:808/hls/83/index.m3u8$IPV4•线路112
+广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php$IPV4•线路113
+广东珠江,http://php.jdshipin.com:8880/chudian.php$IPV4•线路114
+广东珠江,http://www.terrykang.xyz:35455/itv/2000000003000000033.m3u8$IPV4•线路115
+广东珠江,http://mzitv.cn:32/tsfile/live/1006_1.m3u8$IPV4•线路116
+广东珠江,http://120.77.205.62:8087/rtp/239.77.0.1:5146$IPV4•线路117
+广东珠江,http://183.11.239.36:808/hls/83/index.m3u8$IPV4•线路118
+广东珠江,http://119.125.134.176:9901/tsfile/live/1003_1.m3u8$IPV4•线路119
+广东珠江,http://14.212.185.71:9901/tsfile/live/1000_1.m3u8$IPV4•线路120
+广东珠江,http://222.218.158.25:8181/tsfile/live/1000_1.m3u8$IPV4•线路121
+广东珠江,http://58.254.14.231:808/hls/55/index.m3u8$IPV4•线路122
+广东珠江,http://14.112.86.85:4022/udp/239.77.0.1:5146$IPV4•线路123
+广东珠江,http://125.90.252.38:4022/udp/239.77.0.1:5146$IPV4•线路124
+广东珠江,http://39.134.136.161:6610/000000001000/1000000004000011655/index.m3u8$IPV4•线路125
+广东珠江,http://39.134.136.161:6610/000000001000/2000000003000000033/index.m3u8$IPV4•线路126
+广东珠江,http://gslbserv.itv.cmvideo.cn/1.m3u8$IPV4•线路127
+广东珠江,http://lzjzyh.xyz:8888/udp/239.20.0.64:3144$IPV4•线路128
+广东珠江,http://mryx.fun:1025/udp/239.10.0.62:1025$IPV4•线路129
+广东珠江,http://php.jdshipin.com:8880/itv6.php$IPV4•线路130
+广东珠江,http://php.jdshipin.com/TVOD/hnyd.php$IPV4•线路131
+广东珠江,http://ku9.3n.cc/smt.php$IPV4•线路132
+广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8$IPV4•线路133
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-10.m3u8$IPV4•线路134
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-32.ctv$IPV4•线路135
 广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-18.m3u8$IPV4•线路136
 广东珠江,https://stream1.freetv.fun/ipv6-yan-dong-zhu-jiang-21.m3u8$IPV4•线路137
-广州影视频道,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$IPV4•线路1
-广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8$IPV4•线路2
-广州影视频道,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$IPV4•线路3
+广州影视频道,http://tencentplay.gztv.com/live/yingshi.m3u8$IPV4•线路1
+广州影视频道,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$IPV4•线路2
 广州电视台影视频道,https://tencentplay.gztv.com/live/yingshi.m3u8$IPV4
 广州电视台法治频道,http://tencentplay.gztv.com/live/fazhi.m3u8$IPV4•线路1
 广州电视台法治频道,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8$IPV4•线路2
 广州南国都市频道,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8$IPV4
 4K南国都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/1.m3u8$IPV4
-广州竞赛频道,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$IPV4•线路1
-广州竞赛频道,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$IPV4•线路2
+广州竞赛频道,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$IPV4
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$IPV4•线路1
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$IPV4•线路2
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$IPV4•线路3
@@ -264,118 +262,118 @@
 广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8$IPV4•线路6
 广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$IPV4•线路7
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路8
-广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$IPV4•线路9
-广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8$IPV4•线路10
-广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8$IPV4•线路11
-广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8$IPV4•线路12
-广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8$IPV4•线路13
-广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$IPV4•线路14
-广东体育,http://113.101.119.27:808/hls/108/index.m3u8$IPV4•线路15
-广东体育,http://113.101.119.27:8090/hls/108/index.m3u8$IPV4•线路16
-广东体育,http://113.101.119.50:808/hls/108/index.m3u8$IPV4•线路17
-广东体育,http://113.101.119.50:8090/hls/108/index.m3u8$IPV4•线路18
-广东体育,http://113.64.146.32:2024/hls/39/index.m3u8$IPV4•线路19
-广东体育,http://113.64.146.6:2024/hls/39/index.m3u8$IPV4•线路20
-广东体育,http://113.64.146.94:2024/hls/39/index.m3u8$IPV4•线路21
-广东体育,http://113.65.162.209:8081/hls/41/index.m3u8$IPV4•线路22
-广东体育,http://113.109.250.108:9999/udp/239.77.0.112:5146$IPV4•线路23
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111$IPV4•线路24
-广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111$IPV4•线路25
-广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$IPV4•线路26
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$IPV4•线路27
-广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$IPV4•线路28
-广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$IPV4•线路29
-广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8$IPV4•线路30
-广东体育,https://ali.hlspull.yximgs.com/live/guangdongtiyuguangdongtiyuszds98hsrt6u57eujseth5i7463atgestjhsrjsrj------------------------------------------------------.flv$IPV4•线路31
-广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$IPV4•线路32
-广东体育,https://ali.hlspull.yximgs.com/live/diyp_gdty.flv$IPV4•线路33
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv$IPV4•线路34
-广东体育,http://111.221.137.154:9901/tsfile/live/1005_1.m3u8$IPV4•线路35
-广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8$IPV4•线路36
-广东体育,http://r.jdshipin.com/LiYdg$IPV4•线路37
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv$IPV4•线路38
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv$IPV4•线路39
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv$IPV4•线路40
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv$IPV4•线路41
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8$IPV4•线路42
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv$IPV4•线路43
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv$IPV4•线路44
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8$IPV4•线路45
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv$IPV4•线路46
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8$IPV4•线路47
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8$IPV4•线路48
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv$IPV4•线路49
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-34.ctv$IPV4•线路50
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8$IPV4•线路51
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv$IPV4•线路52
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv$IPV4•线路53
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-7.ctv$IPV4•线路54
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv$IPV4•线路55
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8$IPV4•线路56
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-26.m3u8$IPV4•线路57
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8$IPV4•线路58
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv$IPV4•线路59
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-21.m3u8$IPV4•线路60
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv$IPV4•线路61
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.ctv$IPV4•线路62
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv$IPV4•线路63
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8$IPV4•线路64
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8$IPV4•线路65
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv$IPV4•线路66
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8$IPV4•线路67
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv$IPV4•线路68
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv$IPV4•线路69
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8$IPV4•线路70
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.ctv$IPV4•线路71
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv$IPV4•线路72
-广东体育,http://171.108.239.98:8181/tsfile/live/1004_1.m3u8$IPV4•线路73
-广东体育,http://171.108.239.99:8181/tsfile/live/1004_1.m3u8$IPV4•线路74
-广东体育,http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8$IPV4•线路75
-广东体育,http://171.108.239.79:8181/tsfile/live/1004_1.m3u8$IPV4•线路76
-广东体育,http://171.108.239.80:8181/tsfile/live/1004_1.m3u8$IPV4•线路77
-广东体育,http://116.21.121.116:4433/tsfile/live/0142_1.m3u8$IPV4•线路78
-广东体育,http://120.238.84.44:9901/tsfile/live/1012_1.m3u8$IPV4•线路79
-广东体育,http://125.91.252.222:9901/tsfile/live/1002_1.m3u8$IPV4•线路80
-广东体育,https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8$IPV4•线路81
-广东体育,https://stream1.freetv.fun/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8$IPV4•线路82
-广东体育,https://stream1.freetv.fun/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8$IPV4•线路83
-广东体育,https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8$IPV4•线路84
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8$IPV4•线路85
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8$IPV4•线路86
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8$IPV4•线路87
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8$IPV4•线路88
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8$IPV4•线路89
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-27.ctv$IPV4•线路90
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv$IPV4•线路91
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-33.m3u8$IPV4•线路92
-广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路93
-广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$IPV4•线路94
-广东体育,http://119.32.12.32:2901/udp/224.1.100.34:11111$IPV4•线路95
-广东体育,http://218.15.214.115:10000/udp/239.77.0.112:5146$IPV4•线路96
-广东体育,http://api2.52tb.xyz/info$IPV4•线路97
-广东体育,http://api3.52tb.xyz/info$IPV4•线路98
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-12.m3u8$IPV4•线路99
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv$IPV4•线路100
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-39.m3u8$IPV4•线路101
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-27.m3u8$IPV4•线路102
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-26.ctv$IPV4•线路103
-广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$IPV4•线路104
-广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$IPV4•线路105
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$IPV4•线路106
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路107
-广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111$IPV4•线路108
-广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8$IPV4•线路109
-广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路110
-广东体育,http://14.212.185.71:9901/tsfile/live/1003_1.m3u8$IPV4•线路111
-广东体育,http://222.218.158.25:8181/tsfile/live/1001_1.m3u8$IPV4•线路112
-广东体育,http://119.125.134.176:9901/tsfile/live/1007_1.m3u8$IPV4•线路113
-广东体育,http://14.112.86.85:4022/udp/239.77.0.112:5146$IPV4•线路114
-广东体育,http://14.112.86.85:4022/udp/239.77.0.168:5146$IPV4•线路115
-广东体育,http://125.90.252.38:4022/udp/239.77.0.112:5146$IPV4•线路116
-广东体育,http://lzjzyh.xyz:8888/udp/239.20.0.103:2004$IPV4•线路117
-广东体育,http://mryx.fun:1025/udp/239.10.0.113:1025$IPV4•线路118
-广东体育,http://iptviptv.site:9694/hls/456/index.m3u8$IPV4•线路119
-广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8$IPV4•线路120
+广东体育,http://113.101.119.27:808/hls/108/index.m3u8$IPV4•线路9
+广东体育,http://113.101.119.27:8090/hls/108/index.m3u8$IPV4•线路10
+广东体育,http://113.101.119.50:808/hls/108/index.m3u8$IPV4•线路11
+广东体育,http://113.101.119.50:8090/hls/108/index.m3u8$IPV4•线路12
+广东体育,http://113.64.146.32:2024/hls/39/index.m3u8$IPV4•线路13
+广东体育,http://113.64.146.6:2024/hls/39/index.m3u8$IPV4•线路14
+广东体育,http://113.64.146.94:2024/hls/39/index.m3u8$IPV4•线路15
+广东体育,http://113.65.162.209:8081/hls/41/index.m3u8$IPV4•线路16
+广东体育,http://113.109.250.108:9999/udp/239.77.0.112:5146$IPV4•线路17
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111$IPV4•线路18
+广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.34:11111$IPV4•线路19
+广东体育,http://125.89.163.44:8888/udp/239.77.0.112:5146$IPV4•线路20
+广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8$IPV4•线路21
+广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$IPV4•线路22
+广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$IPV4•线路23
+广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$IPV4•线路24
+广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8$IPV4•线路25
+广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8$IPV4•线路26
+广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8$IPV4•线路27
+广东体育,https://ali.hlspull.yximgs.com/live/guangdongtiyuguangdongtiyuszds98hsrt6u57eujseth5i7463atgestjhsrjsrj------------------------------------------------------.flv$IPV4•线路28
+广东体育,http://183.3.134.56:9901/tsfile/live/0142_1.m3u8$IPV4•线路29
+广东体育,https://ali.hlspull.yximgs.com/live/diyp_gdty.flv$IPV4•线路30
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv$IPV4•线路31
+广东体育,http://111.221.137.154:9901/tsfile/live/1005_1.m3u8$IPV4•线路32
+广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8$IPV4•线路33
+广东体育,http://r.jdshipin.com/LiYdg$IPV4•线路34
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv$IPV4•线路35
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv$IPV4•线路36
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv$IPV4•线路37
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv$IPV4•线路38
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8$IPV4•线路39
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv$IPV4•线路40
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv$IPV4•线路41
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8$IPV4•线路42
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-25.ctv$IPV4•线路43
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8$IPV4•线路44
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.m3u8$IPV4•线路45
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-33.ctv$IPV4•线路46
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-34.ctv$IPV4•线路47
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8$IPV4•线路48
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv$IPV4•线路49
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv$IPV4•线路50
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-7.ctv$IPV4•线路51
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv$IPV4•线路52
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8$IPV4•线路53
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-26.m3u8$IPV4•线路54
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-4.m3u8$IPV4•线路55
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv$IPV4•线路56
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-21.m3u8$IPV4•线路57
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv$IPV4•线路58
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.ctv$IPV4•线路59
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-23.ctv$IPV4•线路60
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8$IPV4•线路61
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8$IPV4•线路62
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv$IPV4•线路63
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.m3u8$IPV4•线路64
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv$IPV4•线路65
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv$IPV4•线路66
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8$IPV4•线路67
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.ctv$IPV4•线路68
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-6.ctv$IPV4•线路69
+广东体育,http://171.108.239.98:8181/tsfile/live/1004_1.m3u8$IPV4•线路70
+广东体育,http://171.108.239.99:8181/tsfile/live/1004_1.m3u8$IPV4•线路71
+广东体育,http://www.zzlag.top:9087/tsfile/live/1036_1.m3u8$IPV4•线路72
+广东体育,http://171.108.239.79:8181/tsfile/live/1004_1.m3u8$IPV4•线路73
+广东体育,http://171.108.239.80:8181/tsfile/live/1004_1.m3u8$IPV4•线路74
+广东体育,http://116.21.121.116:4433/tsfile/live/0142_1.m3u8$IPV4•线路75
+广东体育,http://120.238.84.44:9901/tsfile/live/1012_1.m3u8$IPV4•线路76
+广东体育,http://125.91.252.222:9901/tsfile/live/1002_1.m3u8$IPV4•线路77
+广东体育,https://stream1.freetv.fun/3864d41a409cbbbd8579e4ec03eb47e6cf65b15f5cae7c3cd44ccd4b9991a017.m3u8$IPV4•线路78
+广东体育,https://stream1.freetv.fun/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8$IPV4•线路79
+广东体育,https://stream1.freetv.fun/1d9901836bfdd83dcc89edf1fb53c3f62393cd672a8d49266af2c8130921b0ee.m3u8$IPV4•线路80
+广东体育,https://stream1.freetv.fun/869475cf6ab5d187816a1b7fbd8649cfc0b41c452e5595eabb2a36e51a61eecf.m3u8$IPV4•线路81
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$IPV4•线路82
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8$IPV4•线路83
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8$IPV4•线路84
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8$IPV4•线路85
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8$IPV4•线路86
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8$IPV4•线路87
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-27.ctv$IPV4•线路88
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv$IPV4•线路89
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-33.m3u8$IPV4•线路90
+广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路91
+广东体育,http://120.77.205.62:8087/rtp/239.77.1.97:5146$IPV4•线路92
+广东体育,http://119.32.12.32:2901/udp/224.1.100.34:11111$IPV4•线路93
+广东体育,http://218.15.214.115:10000/udp/239.77.0.112:5146$IPV4•线路94
+广东体育,http://api2.52tb.xyz/info$IPV4•线路95
+广东体育,http://api3.52tb.xyz/info$IPV4•线路96
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-12.m3u8$IPV4•线路97
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.ctv$IPV4•线路98
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-39.m3u8$IPV4•线路99
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-27.m3u8$IPV4•线路100
+广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-26.ctv$IPV4•线路101
+广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$IPV4•线路102
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$IPV4•线路103
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$IPV4•线路104
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8$IPV4•线路105
+广东体育,http://119.32.12.17:2901/udp/224.1.100.34:11111$IPV4•线路106
+广东体育,http://mzitv.cn:32/tsfile/live/1008_1.m3u8$IPV4•线路107
+广东体育,http://120.77.205.62:8087/rtp/239.77.0.168:5146$IPV4•线路108
+广东体育,http://14.212.185.71:9901/tsfile/live/1003_1.m3u8$IPV4•线路109
+广东体育,http://222.218.158.25:8181/tsfile/live/1001_1.m3u8$IPV4•线路110
+广东体育,http://119.125.134.176:9901/tsfile/live/1007_1.m3u8$IPV4•线路111
+广东体育,http://14.112.86.85:4022/udp/239.77.0.112:5146$IPV4•线路112
+广东体育,http://14.112.86.85:4022/udp/239.77.0.168:5146$IPV4•线路113
+广东体育,http://125.90.252.38:4022/udp/239.77.0.112:5146$IPV4•线路114
+广东体育,http://lzjzyh.xyz:8888/udp/239.20.0.103:2004$IPV4•线路115
+广东体育,http://mryx.fun:1025/udp/239.10.0.113:1025$IPV4•线路116
+广东体育,http://iptviptv.site:9694/hls/456/index.m3u8$IPV4•线路117
+广东体育,https://hls-gateway.vpstv.net/streams/476954.m3u8$IPV4•线路118
+广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8$IPV4•线路119
+广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8$IPV4•线路120
 广东体育,https://aplay.seres.cn/live/Zyxo1Iy6KgUuFmMZ7ukTrj9FSNsK9dAO4cSPm1hIMLVvRh494sBsbHYOlfbeE890dtfJriuxx61DZHZd.flv$IPV4•线路121
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-2.ctv$IPV4•线路122
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-31.ctv$IPV4•线路123
@@ -438,19 +436,19 @@
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-3.ctv$IPV4•线路57
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-38.ctv$IPV4•线路58
 广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8$IPV4•线路59
-广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8$IPV4•线路60
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路61
-广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路62
-广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8$IPV4•线路63
-广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146$IPV4•线路64
-广东民生,http://14.212.185.71:9901/tsfile/live/1002_1.m3u8$IPV4•线路65
-广东民生,http://222.218.158.25:8181/tsfile/live/1002_1.m3u8$IPV4•线路66
-广东民生,http://58.254.14.231:808/hls/58/index.m3u8$IPV4•线路67
-广东民生,http://14.112.86.85:4022/udp/239.77.0.225:5146$IPV4•线路68
-广东民生,http://125.90.252.38:4022/udp/239.77.0.225:5146$IPV4•线路69
-广东民生,http://lzjzyh.xyz:8888/udp/239.21.0.86:3684$IPV4•线路70
-广东民生,http://mryx.fun:1025/udp/239.11.0.80:1025$IPV4•线路71
-广东民生,http://iptviptv.site:9694/hls/455/index.m3u8$IPV4•线路72
+广东民生,http://183.11.239.36:808/hls/18/index.m3u8$IPV4•线路60
+广东民生,http://119.32.12.17:2901/udp/224.1.100.4:11111$IPV4•线路61
+广东民生,http://mzitv.cn:32/tsfile/live/1009_1.m3u8$IPV4•线路62
+广东民生,http://120.77.205.62:8087/rtp/239.77.0.225:5146$IPV4•线路63
+广东民生,http://14.212.185.71:9901/tsfile/live/1002_1.m3u8$IPV4•线路64
+广东民生,http://222.218.158.25:8181/tsfile/live/1002_1.m3u8$IPV4•线路65
+广东民生,http://58.254.14.231:808/hls/58/index.m3u8$IPV4•线路66
+广东民生,http://14.112.86.85:4022/udp/239.77.0.225:5146$IPV4•线路67
+广东民生,http://125.90.252.38:4022/udp/239.77.0.225:5146$IPV4•线路68
+广东民生,http://lzjzyh.xyz:8888/udp/239.21.0.86:3684$IPV4•线路69
+广东民生,http://mryx.fun:1025/udp/239.11.0.80:1025$IPV4•线路70
+广东民生,http://iptviptv.site:9694/hls/455/index.m3u8$IPV4•线路71
+广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8$IPV4•线路72
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-15.ctv$IPV4•线路73
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-5.ctv$IPV4•线路74
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-8.ctv$IPV4•线路75
@@ -500,7 +498,6 @@
 岭南戏曲,http://61.163.181.78:85/tsfile/live/1016_1.m3u8$IPV4•线路8
 岭南戏曲,http://39.164.174.139:5000/nl.m3u8$IPV4•线路9
 岭南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8$IPV4•线路10
-现代教育,http://1b6467f415.iok.la:9931/tsfile/live/1112_1.m3u8$IPV4
 大湾区卫视,http://home.wwang.pw:35455/itv/2000000003000000045.m3u8$IPV4•线路1
 大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$IPV4•线路2
 大湾区卫视,http://120.27.137.46:10086/mgtv/608917627.m3u8$IPV4•线路3
@@ -531,61 +528,61 @@
 大湾区卫视,http://211.101.234.24:866/aishang/migu.php/migu.php$IPV4•线路28
 大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8$IPV4•线路29
 大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146$IPV4•线路30
-大湾区卫视,https://www.freetv.top/migu/608917627.m3u8$IPV4•线路31
-大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8$IPV4•线路32
-大湾区卫视,http://b.zgjok.com:35455/itv/1000000002000011619.m3u8$IPV4•线路33
-大湾区卫视,http://3501776.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路34
-大湾区卫视,http://14.117.233.31:8688/rtp/239.77.0.215:5146$IPV4•线路35
-大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8$IPV4•线路36
-大湾区卫视,http://www.xzbn.site:35455/itv/1000000002000011619.m3u8$IPV4•线路37
-大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$IPV4•线路38
-大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8$IPV4•线路39
-大湾区卫视,http://tvbox6.icu/tv/dwqws.m3u8$IPV4•线路40
-大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8$IPV4•线路41
-大湾区卫视,http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路42
-大湾区卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000011619.m3u8$IPV4•线路43
-大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php$IPV4•线路44
-大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8$IPV4•线路45
-大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146$IPV4•线路46
-大湾区卫视,http://119.125.134.176:9901/tsfile/live/1026_1.m3u8$IPV4•线路47
-大湾区卫视,http://222.218.158.25:8181/tsfile/live/1027_1.m3u8$IPV4•线路48
-大湾区卫视,http://58.254.14.231:808/hls/51/index.m3u8$IPV4•线路49
-大湾区卫视,http://goo.bkpcp.top/mg/dwqws$IPV4•线路50
-大湾区卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227278/1.m3u8$IPV4•线路51
-大湾区卫视,http://39.134.65.209/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路52
-大湾区卫视,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8$IPV4•线路53
-大湾区卫视,http://39.134.67.110/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路54
-大湾区卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路55
-大湾区卫视,http://39.134.65.251/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路56
-大湾区卫视,http://39.134.65.213/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路57
-大湾区卫视,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8$IPV4•线路58
-大湾区卫视,http://39.134.65.207/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路59
-大湾区卫视,http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路60
-大湾区卫视,http://39.134.65.215/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路61
-大湾区卫视,http://lzjzyh.xyz:8888/udp/239.21.0.84:3676$IPV4•线路62
-大湾区卫视,http://mryx.fun:1025/udp/239.11.0.78:1025$IPV4•线路63
-大湾区卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236327/index.m3u8$IPV4•线路64
-大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路65
-大湾区卫视,https://jrys.haycker.eu.org:4443/play/65$IPV4•线路66
-大湾区卫视,http://ygbh.live/migu.php$IPV4•线路67
-大湾区卫视,http://111.230.30.193/php/lyd.php$IPV4•线路68
-大湾区卫视,http://alvin.ergotron.net:8000/udp/239.77.0.215:5146$IPV4•线路69
-大湾区卫视,http://39.135.133.153/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路70
-大湾区卫视,http://goo.bkpcp.top/mg/dwqws$IPV4•线路71
-大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111$IPV4•线路72
-大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111$IPV4•线路73
-大湾区卫视,http://nctv.top/IDOEPpiryt/migu.php$IPV4•线路74
-大湾区卫视,http://183.162.119.241:9901/tsfile/live/1011_1.m3u8$IPV4•线路75
-大湾区卫视,http://dd.ddzb.fun/php/migu.php$IPV4•线路76
-大湾区卫视,http://182.92.109.190:1668/migu720/migu720.php$IPV4•线路77
-大湾区卫视,http://114.105.98.95:37377/migu/608917627.m3u8$IPV4•线路78
-大湾区卫视,https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8$IPV4•线路79
-大湾区卫视,http://tianhewan.top/ZIPP.php$IPV4•线路80
-大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路81
-大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8$IPV4•线路82
-大湾区卫视,http://14.212.185.27:9901/tsfile/live/1004_1.m3u8$IPV4•线路83
-大湾区卫视,http://120.77.205.62:8087/rtp/239.77.1.12:5146$IPV4•线路84
-大湾区卫视,http://103.70.13.229:20035/api.php$IPV4•线路85
+大湾区卫视,http://14.117.233.31:8688/rtp/239.77.0.215:5146$IPV4•线路31
+大湾区卫视,http://183.11.239.36:808/hls/132/index.m3u8$IPV4•线路32
+大湾区卫视,http://www.xzbn.site:35455/itv/1000000002000011619.m3u8$IPV4•线路33
+大湾区卫视,http://183.237.95.108:9901/tsfile/live/1037_1.m3u8$IPV4•线路34
+大湾区卫视,http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv$IPV4•线路35
+大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8$IPV4•线路36
+大湾区卫视,http://tvbox6.icu/tv/dwqws.m3u8$IPV4•线路37
+大湾区卫视,http://gmxw.7766.org:808/hls/132/index.m3u8$IPV4•线路38
+大湾区卫视,http://www.terrykang.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路39
+大湾区卫视,http://dsm.huarunguoji.top:35455/itv/1000000002000011619.m3u8$IPV4•线路40
+大湾区卫视,https://www.freetv.top/migu/608917627.m3u8$IPV4•线路41
+大湾区卫视,http://nn.7x9d.cn/组播/咪咕视频.php$IPV4•线路42
+大湾区卫视,http://mzitv.cn:32/tsfile/live/1012_1.m3u8$IPV4•线路43
+大湾区卫视,http://120.77.205.62:8087/rtp/239.77.0.215:5146$IPV4•线路44
+大湾区卫视,http://119.125.134.176:9901/tsfile/live/1026_1.m3u8$IPV4•线路45
+大湾区卫视,http://222.218.158.25:8181/tsfile/live/1027_1.m3u8$IPV4•线路46
+大湾区卫视,http://58.254.14.231:808/hls/51/index.m3u8$IPV4•线路47
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws$IPV4•线路48
+大湾区卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227278/1.m3u8$IPV4•线路49
+大湾区卫视,http://39.134.65.209/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路50
+大湾区卫视,http://39.134.136.161:6610/000000001000/2000000003000000045/index.m3u8$IPV4•线路51
+大湾区卫视,http://39.134.67.110/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路52
+大湾区卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路53
+大湾区卫视,http://39.134.65.251/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路54
+大湾区卫视,http://39.134.65.213/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路55
+大湾区卫视,http://39.134.136.161:6610/000000001000/1000000002000011619/index.m3u8$IPV4•线路56
+大湾区卫视,http://39.134.65.207/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路57
+大湾区卫视,http://39.134.67.108/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路58
+大湾区卫视,http://39.134.65.215/PLTV/88888888/224/3221226020/1.m3u8$IPV4•线路59
+大湾区卫视,http://lzjzyh.xyz:8888/udp/239.21.0.84:3676$IPV4•线路60
+大湾区卫视,http://mryx.fun:1025/udp/239.11.0.78:1025$IPV4•线路61
+大湾区卫视,http://hwltc.tv.cdn.zj.chinamobi ... 21236327/index.m3u8$IPV4•线路62
+大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路63
+大湾区卫视,https://jrys.haycker.eu.org:4443/play/65$IPV4•线路64
+大湾区卫视,http://ygbh.live/migu.php$IPV4•线路65
+大湾区卫视,http://111.230.30.193/php/lyd.php$IPV4•线路66
+大湾区卫视,http://alvin.ergotron.net:8000/udp/239.77.0.215:5146$IPV4•线路67
+大湾区卫视,http://39.135.133.153/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路68
+大湾区卫视,http://goo.bkpcp.top/mg/dwqws$IPV4•线路69
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111$IPV4•线路70
+大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.153:11111$IPV4•线路71
+大湾区卫视,http://nctv.top/IDOEPpiryt/migu.php$IPV4•线路72
+大湾区卫视,http://183.162.119.241:9901/tsfile/live/1011_1.m3u8$IPV4•线路73
+大湾区卫视,http://3501776.xyz:35455/itv/1000000002000011619.m3u8$IPV4•线路74
+大湾区卫视,http://dd.ddzb.fun/php/migu.php$IPV4•线路75
+大湾区卫视,http://182.92.109.190:1668/migu720/migu720.php$IPV4•线路76
+大湾区卫视,http://114.105.98.95:37377/migu/608917627.m3u8$IPV4•线路77
+大湾区卫视,https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8$IPV4•线路78
+大湾区卫视,http://tianhewan.top/ZIPP.php$IPV4•线路79
+大湾区卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8$IPV4•线路80
+大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8$IPV4•线路81
+大湾区卫视,http://14.212.185.27:9901/tsfile/live/1004_1.m3u8$IPV4•线路82
+大湾区卫视,http://120.77.205.62:8087/rtp/239.77.1.12:5146$IPV4•线路83
+大湾区卫视,http://103.70.13.229:20035/api.php$IPV4•线路84
+大湾区卫视,http://b.zgjok.com:35455/itv/1000000002000011619.m3u8$IPV4•线路85
 大湾区卫视,http://27.209.178.86:9001/mgtv/608917627.m3u8$IPV4•线路86
 大湾区卫视,http://kakaphone.pgrm.cc:9257/mgtv/608917627.m3u8$IPV4•线路87
 大湾区卫视,http://ss.baihuan.online:35455/mgtv/608917627.m3u8$IPV4•线路88
@@ -26932,90 +26929,57 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$IPV4•线路1
 纬来育乐,http://122.117.71.103:8563/纬来育乐.m3u8$IPV4•线路2
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8$IPV4•线路3
 🍉┃咪咕频道,#genre#
-CCTV-01咪咕,http://sport.pendy.dpdns.org/migu/608807420$IPV4•线路1
-CCTV-01咪咕,http://templaralone.asuscomm.com:35455/mgtv/608807420.m3u8$IPV4•线路2
-CCTV-01咪咕,http://1.tvbox.daliansky.net/mgtv/923287154.m3u8$IPV4•线路3
-CCTV-01咪咕,http://lobe.concordcityx.com:35455/mgtv/923287154.m3u8$IPV4•线路4
-CCTV-01咪咕,http://114.103.187.33:35455/mgtv/923287154.m3u8$IPV4•线路5
-CCTV-02咪咕,http://sport.pendy.dpdns.org/migu/631780532$IPV4•线路1
-CCTV-02咪咕,http://templaralone.asuscomm.com:35455/mgtv/631780532.m3u8$IPV4•线路2
-CCTV-02咪咕,http://1.tvbox.daliansky.net/mgtv/923287211.m3u8$IPV4•线路3
-CCTV-02咪咕,http://lobe.concordcityx.com:35455/mgtv/923287211.m3u8$IPV4•线路4
-CCTV-02咪咕,http://114.103.187.33:35455/mgtv/923287211.m3u8$IPV4•线路5
-CCTV-03咪咕,http://sport.pendy.dpdns.org/migu/624878271$IPV4•线路1
-CCTV-03咪咕,http://templaralone.asuscomm.com:35455/mgtv/624878271.m3u8$IPV4•线路2
-CCTV-03咪咕,http://1.tvbox.daliansky.net/mgtv/624878271.m3u8$IPV4•线路3
-CCTV-03咪咕,http://lobe.concordcityx.com:35455/mgtv/624878271.m3u8$IPV4•线路4
-CCTV-03咪咕,http://114.103.187.33:35455/mgtv/624878271.m3u8$IPV4•线路5
-CCTV-04咪咕,http://sport.pendy.dpdns.org/migu/631780421$IPV4•线路1
-CCTV-04咪咕,http://templaralone.asuscomm.com:35455/mgtv/631780421.m3u8$IPV4•线路2
-CCTV-04咪咕,http://1.tvbox.daliansky.net/mgtv/923287339.m3u8$IPV4•线路3
-CCTV-04咪咕,http://lobe.concordcityx.com:35455/mgtv/923287339.m3u8$IPV4•线路4
-CCTV-04咪咕,http://114.103.187.33:35455/mgtv/923287339.m3u8$IPV4•线路5
-CCTV-05咪咕,http://sport.pendy.dpdns.org/migu/641886683$IPV4•线路1
-CCTV-05咪咕,http://templaralone.asuscomm.com:35455/mgtv/641886683.m3u8$IPV4•线路2
-CCTV-05咪咕,http://1.tvbox.daliansky.net/mgtv/641886683.m3u8$IPV4•线路3
-CCTV-05咪咕,http://lobe.concordcityx.com:35455/mgtv/641886683.m3u8$IPV4•线路4
-CCTV-05咪咕,http://114.103.187.33:35455/mgtv/641886683.m3u8$IPV4•线路5
-CCTV-06咪咕,http://sport.pendy.dpdns.org/migu/624878396$IPV4•线路1
-CCTV-06咪咕,http://templaralone.asuscomm.com:35455/mgtv/624878396.m3u8$IPV4•线路2
-CCTV-06咪咕,http://1.tvbox.daliansky.net/mgtv/624878396.m3u8$IPV4•线路3
-CCTV-06咪咕,http://lobe.concordcityx.com:35455/mgtv/624878396.m3u8$IPV4•线路4
-CCTV-06咪咕,http://114.103.187.33:35455/mgtv/624878396.m3u8$IPV4•线路5
-CCTV-07咪咕,http://sport.pendy.dpdns.org/migu/673168121$IPV4•线路1
-CCTV-07咪咕,http://templaralone.asuscomm.com:35455/mgtv/673168121.m3u8$IPV4•线路2
-CCTV-07咪咕,http://1.tvbox.daliansky.net/mgtv/673168121.m3u8$IPV4•线路3
-CCTV-07咪咕,http://lobe.concordcityx.com:35455/mgtv/673168121.m3u8$IPV4•线路4
-CCTV-07咪咕,http://114.103.187.33:35455/mgtv/673168121.m3u8$IPV4•线路5
-CCTV-08咪咕,http://sport.pendy.dpdns.org/migu/624878356$IPV4•线路1
-CCTV-08咪咕,http://templaralone.asuscomm.com:35455/mgtv/624878356.m3u8$IPV4•线路2
-CCTV-08咪咕,http://1.tvbox.daliansky.net/mgtv/624878356.m3u8$IPV4•线路3
-CCTV-08咪咕,http://lobe.concordcityx.com:35455/mgtv/624878356.m3u8$IPV4•线路4
-CCTV-08咪咕,http://114.103.187.33:35455/mgtv/624878356.m3u8$IPV4•线路5
-CCTV-09咪咕,http://sport.pendy.dpdns.org/migu/673168140$IPV4•线路1
-CCTV-09咪咕,http://templaralone.asuscomm.com:35455/mgtv/673168140.m3u8$IPV4•线路2
-CCTV-09咪咕,http://1.tvbox.daliansky.net/mgtv/673168140.m3u8$IPV4•线路3
-CCTV-09咪咕,http://lobe.concordcityx.com:35455/mgtv/673168140.m3u8$IPV4•线路4
-CCTV-09咪咕,http://114.103.187.33:35455/mgtv/673168140.m3u8$IPV4•线路5
-CCTV-10咪咕,http://sport.pendy.dpdns.org/migu/624878405$IPV4•线路1
-CCTV-10咪咕,http://templaralone.asuscomm.com:35455/mgtv/624878405.m3u8$IPV4•线路2
-CCTV-10咪咕,http://1.tvbox.daliansky.net/mgtv/624878405.m3u8$IPV4•线路3
-CCTV-10咪咕,http://lobe.concordcityx.com:35455/mgtv/624878405.m3u8$IPV4•线路4
-CCTV-10咪咕,http://114.103.187.33:35455/mgtv/624878405.m3u8$IPV4•线路5
-CCTV-11咪咕,http://sport.pendy.dpdns.org/migu/667987558$IPV4•线路1
-CCTV-11咪咕,http://templaralone.asuscomm.com:35455/mgtv/667987558.m3u8$IPV4•线路2
-CCTV-11咪咕,http://1.tvbox.daliansky.net/mgtv/667987558.m3u8$IPV4•线路3
-CCTV-11咪咕,http://lobe.concordcityx.com:35455/mgtv/667987558.m3u8$IPV4•线路4
-CCTV-11咪咕,http://114.103.187.33:35455/mgtv/667987558.m3u8$IPV4•线路5
-CCTV-12咪咕,http://sport.pendy.dpdns.org/migu/673168185$IPV4•线路1
-CCTV-12咪咕,http://templaralone.asuscomm.com:35455/mgtv/673168185.m3u8$IPV4•线路2
-CCTV-12咪咕,http://1.tvbox.daliansky.net/mgtv/673168185.m3u8$IPV4•线路3
-CCTV-12咪咕,http://lobe.concordcityx.com:35455/mgtv/673168185.m3u8$IPV4•线路4
-CCTV-12咪咕,http://114.103.187.33:35455/mgtv/673168185.m3u8$IPV4•线路5
-CCTV-13咪咕,http://sport.pendy.dpdns.org/migu/608807423$IPV4•线路1
-CCTV-13咪咕,http://templaralone.asuscomm.com:35455/mgtv/608807423.m3u8$IPV4•线路2
-CCTV-13咪咕,http://1.tvbox.daliansky.net/mgtv/608807423.m3u8$IPV4•线路3
-CCTV-13咪咕,http://lobe.concordcityx.com:35455/mgtv/608807423.m3u8$IPV4•线路4
-CCTV-13咪咕,http://114.103.187.33:35455/mgtv/608807423.m3u8$IPV4•线路5
-CCTV-14咪咕,http://sport.pendy.dpdns.org/migu/624878440$IPV4•线路1
-CCTV-14咪咕,http://templaralone.asuscomm.com:35455/mgtv/624878440.m3u8$IPV4•线路2
-CCTV-14咪咕,http://1.tvbox.daliansky.net/mgtv/624878440.m3u8$IPV4•线路3
-CCTV-14咪咕,http://lobe.concordcityx.com:35455/mgtv/624878440.m3u8$IPV4•线路4
-CCTV-14咪咕,http://114.103.187.33:35455/mgtv/624878440.m3u8$IPV4•线路5
-CCTV-15咪咕,http://sport.pendy.dpdns.org/migu/673168223$IPV4•线路1
-CCTV-15咪咕,http://templaralone.asuscomm.com:35455/mgtv/673168223.m3u8$IPV4•线路2
-CCTV-15咪咕,http://1.tvbox.daliansky.net/mgtv/673168223.m3u8$IPV4•线路3
-CCTV-15咪咕,http://lobe.concordcityx.com:35455/mgtv/673168223.m3u8$IPV4•线路4
-CCTV-15咪咕,http://114.103.187.33:35455/mgtv/673168223.m3u8$IPV4•线路5
-CCTV-16咪咕,http://templaralone.asuscomm.com:35455/nptv/cctv16.m3u8$IPV4•线路1
-CCTV-16咪咕,http://1.tvbox.daliansky.net/nptv/cctv16.m3u8$IPV4•线路2
-CCTV-16咪咕,http://lobe.concordcityx.com:35455/nptv/cctv16.m3u8$IPV4•线路3
-CCTV-16咪咕,http://114.103.187.33:35455/nptv/cctv16.m3u8$IPV4•线路4
-CCTV-17咪咕,http://sport.pendy.dpdns.org/migu/673168256$IPV4•线路1
-CCTV-17咪咕,http://templaralone.asuscomm.com:35455/mgtv/673168256.m3u8$IPV4•线路2
-CCTV-17咪咕,http://1.tvbox.daliansky.net/mgtv/673168256.m3u8$IPV4•线路3
-CCTV-17咪咕,http://lobe.concordcityx.com:35455/mgtv/673168256.m3u8$IPV4•线路4
-CCTV-17咪咕,http://114.103.187.33:35455/mgtv/673168256.m3u8$IPV4•线路5
+CCTV-01咪咕,http://1.tvbox.daliansky.net/mgtv/923287154.m3u8$IPV4•线路1
+CCTV-01咪咕,http://lobe.concordcityx.com:35455/mgtv/923287154.m3u8$IPV4•线路2
+CCTV-01咪咕,http://114.103.187.33:35455/mgtv/923287154.m3u8$IPV4•线路3
+CCTV-02咪咕,http://1.tvbox.daliansky.net/mgtv/923287211.m3u8$IPV4•线路1
+CCTV-02咪咕,http://lobe.concordcityx.com:35455/mgtv/923287211.m3u8$IPV4•线路2
+CCTV-02咪咕,http://114.103.187.33:35455/mgtv/923287211.m3u8$IPV4•线路3
+CCTV-03咪咕,http://1.tvbox.daliansky.net/mgtv/624878271.m3u8$IPV4•线路1
+CCTV-03咪咕,http://lobe.concordcityx.com:35455/mgtv/624878271.m3u8$IPV4•线路2
+CCTV-03咪咕,http://114.103.187.33:35455/mgtv/624878271.m3u8$IPV4•线路3
+CCTV-04咪咕,http://1.tvbox.daliansky.net/mgtv/923287339.m3u8$IPV4•线路1
+CCTV-04咪咕,http://lobe.concordcityx.com:35455/mgtv/923287339.m3u8$IPV4•线路2
+CCTV-04咪咕,http://114.103.187.33:35455/mgtv/923287339.m3u8$IPV4•线路3
+CCTV-05咪咕,http://1.tvbox.daliansky.net/mgtv/641886683.m3u8$IPV4•线路1
+CCTV-05咪咕,http://lobe.concordcityx.com:35455/mgtv/641886683.m3u8$IPV4•线路2
+CCTV-05咪咕,http://114.103.187.33:35455/mgtv/641886683.m3u8$IPV4•线路3
+CCTV-06咪咕,http://1.tvbox.daliansky.net/mgtv/624878396.m3u8$IPV4•线路1
+CCTV-06咪咕,http://lobe.concordcityx.com:35455/mgtv/624878396.m3u8$IPV4•线路2
+CCTV-06咪咕,http://114.103.187.33:35455/mgtv/624878396.m3u8$IPV4•线路3
+CCTV-07咪咕,http://1.tvbox.daliansky.net/mgtv/673168121.m3u8$IPV4•线路1
+CCTV-07咪咕,http://lobe.concordcityx.com:35455/mgtv/673168121.m3u8$IPV4•线路2
+CCTV-07咪咕,http://114.103.187.33:35455/mgtv/673168121.m3u8$IPV4•线路3
+CCTV-08咪咕,http://1.tvbox.daliansky.net/mgtv/624878356.m3u8$IPV4•线路1
+CCTV-08咪咕,http://lobe.concordcityx.com:35455/mgtv/624878356.m3u8$IPV4•线路2
+CCTV-08咪咕,http://114.103.187.33:35455/mgtv/624878356.m3u8$IPV4•线路3
+CCTV-09咪咕,http://1.tvbox.daliansky.net/mgtv/673168140.m3u8$IPV4•线路1
+CCTV-09咪咕,http://lobe.concordcityx.com:35455/mgtv/673168140.m3u8$IPV4•线路2
+CCTV-09咪咕,http://114.103.187.33:35455/mgtv/673168140.m3u8$IPV4•线路3
+CCTV-10咪咕,http://1.tvbox.daliansky.net/mgtv/624878405.m3u8$IPV4•线路1
+CCTV-10咪咕,http://lobe.concordcityx.com:35455/mgtv/624878405.m3u8$IPV4•线路2
+CCTV-10咪咕,http://114.103.187.33:35455/mgtv/624878405.m3u8$IPV4•线路3
+CCTV-11咪咕,http://1.tvbox.daliansky.net/mgtv/667987558.m3u8$IPV4•线路1
+CCTV-11咪咕,http://lobe.concordcityx.com:35455/mgtv/667987558.m3u8$IPV4•线路2
+CCTV-11咪咕,http://114.103.187.33:35455/mgtv/667987558.m3u8$IPV4•线路3
+CCTV-12咪咕,http://1.tvbox.daliansky.net/mgtv/673168185.m3u8$IPV4•线路1
+CCTV-12咪咕,http://lobe.concordcityx.com:35455/mgtv/673168185.m3u8$IPV4•线路2
+CCTV-12咪咕,http://114.103.187.33:35455/mgtv/673168185.m3u8$IPV4•线路3
+CCTV-13咪咕,http://1.tvbox.daliansky.net/mgtv/608807423.m3u8$IPV4•线路1
+CCTV-13咪咕,http://lobe.concordcityx.com:35455/mgtv/608807423.m3u8$IPV4•线路2
+CCTV-13咪咕,http://114.103.187.33:35455/mgtv/608807423.m3u8$IPV4•线路3
+CCTV-14咪咕,http://1.tvbox.daliansky.net/mgtv/624878440.m3u8$IPV4•线路1
+CCTV-14咪咕,http://lobe.concordcityx.com:35455/mgtv/624878440.m3u8$IPV4•线路2
+CCTV-14咪咕,http://114.103.187.33:35455/mgtv/624878440.m3u8$IPV4•线路3
+CCTV-15咪咕,http://1.tvbox.daliansky.net/mgtv/673168223.m3u8$IPV4•线路1
+CCTV-15咪咕,http://lobe.concordcityx.com:35455/mgtv/673168223.m3u8$IPV4•线路2
+CCTV-15咪咕,http://114.103.187.33:35455/mgtv/673168223.m3u8$IPV4•线路3
+CCTV-16咪咕,http://1.tvbox.daliansky.net/nptv/cctv16.m3u8$IPV4•线路1
+CCTV-16咪咕,http://lobe.concordcityx.com:35455/nptv/cctv16.m3u8$IPV4•线路2
+CCTV-16咪咕,http://114.103.187.33:35455/nptv/cctv16.m3u8$IPV4•线路3
+CCTV-17咪咕,http://1.tvbox.daliansky.net/mgtv/673168256.m3u8$IPV4•线路1
+CCTV-17咪咕,http://lobe.concordcityx.com:35455/mgtv/673168256.m3u8$IPV4•线路2
+CCTV-17咪咕,http://114.103.187.33:35455/mgtv/673168256.m3u8$IPV4•线路3
 CCTV4欧洲咪咕,http://fn.tmde.top:35455/mgtv/608807419.m3u8$IPV4•线路1
 CCTV4欧洲咪咕,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8$IPV4•线路2
 CCTV4欧洲咪咕,http://192.168.6.1:7088/rtp://238.255.2.213:5999$IPV4•线路3
@@ -27030,46 +26994,33 @@ CCTV4美洲咪咕,http://hwltc.tv.cdn.zj.chinamobi ... 21236335/index.m3u8$IPV4�
 CCTV4美洲咪咕,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/51/index.m3u8$IPV4•线路6
 CCTV-4咪咕欧洲,http://fn.tmde.top:35455/mgtv/608807419.m3u8$IPV4
 CCTV-4咪咕美洲,http://fn.tmde.top:35455/mgtv/608807416.m3u8$IPV4
-CCTV-5+咪咕,http://sport.pendy.dpdns.org/migu/641886773$IPV4•线路1
-CCTV-5+咪咕,http://1.tvbox.daliansky.net/mgtv/641886773.m3u8$IPV4•线路2
-CCTV-5+咪咕,http://lobe.concordcityx.com:35455/mgtv/641886773.m3u8$IPV4•线路3
-CCTV-5+咪咕,http://114.103.187.33:35455/mgtv/641886773.m3u8$IPV4•线路4
+CCTV-5+咪咕,http://1.tvbox.daliansky.net/mgtv/641886773.m3u8$IPV4•线路1
+CCTV-5+咪咕,http://lobe.concordcityx.com:35455/mgtv/641886773.m3u8$IPV4•线路2
+CCTV-5+咪咕,http://114.103.187.33:35455/mgtv/641886773.m3u8$IPV4•线路3
 CGT西语咪咕,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/ysp/2022571703.m3u8$IPV4•线路1
 CGT西语咪咕,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022571703.m3u8$IPV4•线路2
 CGT阿语咪咕,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/ysp/2022574603.m3u8$IPV4•线路1
 CGT阿语咪咕,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574603.m3u8$IPV4•线路2
 CGT法语咪咕,http://59.80.47.113/bktlivecloud-cdn.ysp.cctv.cn/ysp/2022574903.m3u8$IPV4•线路1
 CGT法语咪咕,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903.m3u8$IPV4•线路2
-家庭影院咪咕,http://sport.pendy.dpdns.org/migu/644368373$IPV4•线路1
-家庭影院咪咕,http://templaralone.asuscomm.com:35455/mgtv/644368373.m3u8$IPV4•线路2
-家庭影院咪咕,http://1.tvbox.daliansky.net/mgtv/644368373.m3u8$IPV4•线路3
-家庭影院咪咕,http://lobe.concordcityx.com:35455/mgtv/644368373.m3u8$IPV4•线路4
-家庭影院咪咕,http://114.103.187.33:35455/mgtv/644368373.m3u8$IPV4•线路5
-动作电影咪咕,http://sport.pendy.dpdns.org/migu/644368714$IPV4•线路1
-动作电影咪咕,http://templaralone.asuscomm.com:35455/mgtv/644368714.m3u8$IPV4•线路2
-动作电影咪咕,http://1.tvbox.daliansky.net/mgtv/644368714.m3u8$IPV4•线路3
-动作电影咪咕,http://lobe.concordcityx.com:35455/mgtv/644368714.m3u8$IPV4•线路4
-动作电影咪咕,http://114.103.187.33:35455/mgtv/644368714.m3u8$IPV4•线路5
-东方卫视咪咕,http://sport.pendy.dpdns.org/migu/651632648$IPV4•线路1
-东方卫视咪咕,http://templaralone.asuscomm.com:35455/mgtv/651632648.m3u8$IPV4•线路2
-东方卫视咪咕,http://1.tvbox.daliansky.net/mgtv/651632648.m3u8$IPV4•线路3
-东方卫视咪咕,http://lobe.concordcityx.com:35455/mgtv/651632648.m3u8$IPV4•线路4
-东方卫视咪咕,http://114.103.187.33:35455/mgtv/651632648.m3u8$IPV4•线路5
+家庭影院咪咕,http://1.tvbox.daliansky.net/mgtv/644368373.m3u8$IPV4•线路1
+家庭影院咪咕,http://lobe.concordcityx.com:35455/mgtv/644368373.m3u8$IPV4•线路2
+家庭影院咪咕,http://114.103.187.33:35455/mgtv/644368373.m3u8$IPV4•线路3
+动作电影咪咕,http://1.tvbox.daliansky.net/mgtv/644368714.m3u8$IPV4•线路1
+动作电影咪咕,http://lobe.concordcityx.com:35455/mgtv/644368714.m3u8$IPV4•线路2
+动作电影咪咕,http://114.103.187.33:35455/mgtv/644368714.m3u8$IPV4•线路3
+东方卫视咪咕,http://1.tvbox.daliansky.net/mgtv/651632648.m3u8$IPV4•线路1
+东方卫视咪咕,http://lobe.concordcityx.com:35455/mgtv/651632648.m3u8$IPV4•线路2
+东方卫视咪咕,http://114.103.187.33:35455/mgtv/651632648.m3u8$IPV4•线路3
 江苏卫视咪咕,http://1.tvbox.daliansky.net/mgtv/783847495.m3u8$IPV4•线路1
 江苏卫视咪咕,http://lobe.concordcityx.com:35455/mgtv/783847495.m3u8$IPV4•线路2
 江苏卫视咪咕,http://114.103.187.33:35455/mgtv/783847495.m3u8$IPV4•线路3
-陕西卫视咪咕,http://sport.pendy.dpdns.org/migu/738910838$IPV4•线路1
-陕西卫视咪咕,http://templaralone.asuscomm.com:35455/mgtv/738910838.m3u8$IPV4•线路2
-陕西卫视咪咕,http://1.tvbox.daliansky.net/mgtv/738910838.m3u8$IPV4•线路3
-陕西卫视咪咕,http://lobe.concordcityx.com:35455/mgtv/738910838.m3u8$IPV4•线路4
-陕西卫视咪咕,http://114.103.187.33:35455/mgtv/738910838.m3u8$IPV4•线路5
-湖北卫视咪咕,http://sport.pendy.dpdns.org/migu/947472496$IPV4•线路1
-湖北卫视咪咕,http://templaralone.asuscomm.com:35455/mgtv/947472496.m3u8$IPV4•线路2
-湖北卫视咪咕,http://1.tvbox.daliansky.net/mgtv/947472496.m3u8$IPV4•线路3
-湖北卫视咪咕,http://lobe.concordcityx.com:35455/mgtv/947472496.m3u8$IPV4•线路4
-湖北卫视咪咕,http://114.103.187.33:35455/mgtv/947472496.m3u8$IPV4•线路5
-江西卫视咪咕,http://sport.pendy.dpdns.org/migu/783847495$IPV4•线路1
-江西卫视咪咕,http://templaralone.asuscomm.com:35455/mgtv/783847495.m3u8$IPV4•线路2
+陕西卫视咪咕,http://1.tvbox.daliansky.net/mgtv/738910838.m3u8$IPV4•线路1
+陕西卫视咪咕,http://lobe.concordcityx.com:35455/mgtv/738910838.m3u8$IPV4•线路2
+陕西卫视咪咕,http://114.103.187.33:35455/mgtv/738910838.m3u8$IPV4•线路3
+湖北卫视咪咕,http://1.tvbox.daliansky.net/mgtv/947472496.m3u8$IPV4•线路1
+湖北卫视咪咕,http://lobe.concordcityx.com:35455/mgtv/947472496.m3u8$IPV4•线路2
+湖北卫视咪咕,http://114.103.187.33:35455/mgtv/947472496.m3u8$IPV4•线路3
 新片映厅咪咕,http://live.nctv.top/6688/yy.php$IPV4•线路1
 新片映厅咪咕,http://rihou.cc:555/dyy.php$IPV4•线路2
 新片映厅咪咕,http://jiaojirentv.top/2020/yy.php$IPV4•线路3
@@ -27077,7 +27028,7 @@ CGT法语咪咕,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574903
 东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8$IPV4•线路1
 东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8$IPV4•线路2
 iFun动漫,https://hls-gateway.vpstv.net/streams/708917.m3u8$IPV4
-momo亲子,http://37.27.111.214:8080/live/3/hls.m3u8$IPV4
+momo亲子,https://tv.iill.top/4gtv/231$IPV4
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8$IPV4•线路1
 黑莓动画,http://39.135.133.157/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225662/index.m3u8$IPV4•线路2
 黑莓动画,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8$IPV4•线路3
@@ -27731,6 +27682,7 @@ CHC动作电影,http://14.103.160.213:8098/mgtv/644368714.m3u8$IPV4•线路122
 CHC动作电影,http://110.40.39.111:10216/mgtv/644368714.m3u8$IPV4•线路123
 CHC动作电影,http://221.222.242.239:56787/mgtv/644368714.m3u8$IPV4•线路124
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8$IPV4•线路125
+CHC动作电影,http://sport.pendy.dpdns.org/migu/644368714$IPV4•线路126
 CHC高清电影,http://120.198.101.106:9901/tsfile/live/1053_1.m3u8$IPV4•线路1
 CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8$IPV4•线路2
 CHC高清电影,http://120.198.95.220:9901/tsfile/live/1038_1.m3u8$IPV4•线路3
@@ -27843,6 +27795,7 @@ CHC家庭影院,http://14.103.160.213:8098/mgtv/644368373.m3u8$IPV4•线路96
 CHC家庭影院,http://ss.baihuan.online:35455/mgtv/644368373.m3u8$IPV4•线路97
 CHC家庭影院,http://alist.xicp.fun:35455/mgtv/644368373.m3u8$IPV4•线路98
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$IPV4•线路99
+CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373$IPV4•线路100
 NewTV惊悚悬疑,http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPV4•线路1
 NewTV惊悚悬疑,http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$IPV4•线路2
 NewTV惊悚悬疑,http://39.134.65.106/PLTV/88888888/224/3221225553/1.m3u8$IPV4•线路3
