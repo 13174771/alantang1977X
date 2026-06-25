@@ -1,1 +1,4 @@
-2025-08-23 10:17:47,040 - ERROR - url: https://daili.korice.eu.org/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 404, message='Not Found', url='https://daili.korice.eu.org/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u'
+2026-06-25 12:54:35,450 - ERROR - url: https://live.zhoujie218.top/tv/iptv4.txt 失败❌, Error: Cannot connect to host live.zbds.top:443 ssl:default [Name or service not known]
+2026-06-25 12:54:36,404 - ERROR - url: http://is.is-great.org/i/0885557.txt 失败❌, Error: 404, message='Not Found', url='https://errors.infinityfree.net/errors/404/'
+2026-06-25 12:54:36,480 - ERROR - url: https://cnb.cool/junchao.tang/live/-/git/raw/main/临时收集 失败❌, Error: 404, message='Not Found', url='https://cnb.cool/junchao.tang/live/-/git/raw/main/%E4%B8%B4%E6%97%B6%E6%94%B6%E9%9B%86'
+2026-06-25 12:54:55,478 - ERROR - url: https://daili.korice.eu.org/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u 失败❌, Error: 522, message='<none>', url='https://daili.korice.eu.org/https://raw.githubusercontent.com/Mursor/LIVE/refs/heads/main/iptv.m3u'
